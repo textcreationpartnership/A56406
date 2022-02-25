@@ -1,0 +1,923 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The faithful and diligent Christian described and exemplified, or, A sermon (with some additions) preached at the funeral of the Lady Elizabeth Brooke, the relict of Sir Robert Brooke, to which is annexed ... an account of the life and death of that eminent lady : with an appendix containing some observations, experiences, and rules for practice, found written with Her Ladiship's own hand / by Nath. Parkhurst ...</title>
+            <author>Parkhurst, Nathaniel, 1643-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 84 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56406</idno>
+            <idno type="STC">Wing P489</idno>
+            <idno type="STC">ESTC R14746</idno>
+            <idno type="EEBO-CITATION">13026369</idno>
+            <idno type="OCLC">ocm 13026369</idno>
+            <idno type="VID">96692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96692)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 395:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The faithful and diligent Christian described and exemplified, or, A sermon (with some additions) preached at the funeral of the Lady Elizabeth Brooke, the relict of Sir Robert Brooke, to which is annexed ... an account of the life and death of that eminent lady : with an appendix containing some observations, experiences, and rules for practice, found written with Her Ladiship's own hand / by Nath. Parkhurst ...</title>
+                  <author>Parkhurst, Nathaniel, 1643-1707.</author>
+               </titleStmt>
+               <extent>[7], 160 p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Sprint ... and John Harding ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [7].</note>
+                  <note>Reproduction of original in British Library.</note>
+                  <note>Imperfect: film lacks port.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brooke, Elizabeth, --  Lady, 1601-1683.</term>
+               <term>Church of England --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96692:1" rendition="simple:additions"/>
+            <pb facs="tcp:96692:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Faithful and Diligent Chriſtian deſcribed and exemplified.</hi>
+            </p>
+            <p>OR, A SERMON (With ſome Additions,) Preached at the Funeral of the Lady <hi>ELIZABETH BROOKE,</hi> the Relict of Sir <hi>Robert Brooke</hi> Kt. of <hi>Cock<g ref="char:EOLhyphen"/>field-Hall</hi> in <hi>Yoxford, Suffolk.</hi>
+            </p>
+            <p>Who departed this Life <hi>July</hi> 22. And was in<g ref="char:EOLhyphen"/>terred in the Pariſh-Church of <hi>Yoxford, July</hi> 26. 1683. And in the <hi>82d</hi> Year of her Age.</p>
+            <p>To which is annexed (including the Character then given of Her) an Account of the Life and Death of that Eminent LADY.</p>
+            <p>With an APPENDIX, containing ſome <hi>Ob<g ref="char:EOLhyphen"/>servations, Experiences,</hi> and <hi>Rules</hi> for Practice, found written with her Ladiſhip's own Hand.</p>
+            <p>By <hi>NATH. PARKH<g ref="char:V">Ʋ</g>RST,</hi> M. A. Vi<g ref="char:EOLhyphen"/>car of <hi>Yoxford,</hi> and Chaplain to her Ladiſhip.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 31.29.</hi>
+               </bibl>
+               <p>Many Daughters have done ver<g ref="char:EOLhyphen"/>tuouſly, but thou excelleſt them all.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Samuel Sprint</hi> at the Bell in <hi>Little-Britain,</hi> and <hi>John Harding</hi> at the Bible and Anchor in <hi>Newport Street</hi> near <hi>Leiceſter</hi>-Fields. 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96692:2" rendition="simple:additions"/>
+            <pb facs="tcp:96692:2"/>
+            <head>To the much honoured, Truly Vertuous and Religious, Mrs. <hi>MARY BROOKE.</hi>
+            </head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>THE ſhortneſs of the Time which was allow<g ref="char:EOLhyphen"/>ed me for the deli<g ref="char:EOLhyphen"/>vering of the Sermon preach'd at the Funeral of your <hi>Excellent Mother,</hi> would not permit that fuller Account of <hi>Her</hi> which I now humbly offer to you, (with that <hi>Sermon</hi> enlarged.)</p>
+            <p>
+               <pb facs="tcp:96692:3"/>
+Notwithſtanding which <hi>Additions,</hi> I am ſenſible there remains much un<g ref="char:EOLhyphen"/>ſaid equal to the things I have remarked, though aſſiſted by ſome very <hi>conſide<g ref="char:EOLhyphen"/>ble Memorials</hi> ſent to me by a most <hi>worthy Friend</hi> to your Family, who hath been acquainted with her four and forty Years, and paſſed many of them in her Houſe.</p>
+            <p>But there being a neceſsity of omit<g ref="char:EOLhyphen"/>ting ſome things, unleſs I would have exceeded the uſual Bounds of ſuch <hi>Narratives:</hi> I only beg your Pardon if I have not made the beſt choice a<g ref="char:EOLhyphen"/>mong thoſe Treaſures of <hi>Excellencies</hi> and Chriſtian <hi>Accompliſhments</hi> that were found in Her.</p>
+            <p>Theſe which I have collected, I hope may be uſeful to them who have any Inclination to Piety, as ſerving to
+<pb facs="tcp:96692:3"/>excite to a great degree of Holineſs: This being the natural Tendency of great <hi>Examples</hi> recorded, even to move others to Imitation.</p>
+            <p>Which Effect I am much aſſured it will produce in your Self; and You of all others are most obliged to endea<g ref="char:EOLhyphen"/>vour it, having been conſtantly con<g ref="char:EOLhyphen"/>verſant with the <hi>Patern,</hi> when living.</p>
+            <p>It is a great Honour to have de<g ref="char:EOLhyphen"/>ſcended from ſuch a <hi>Parent;</hi> but it will be much more to tread with that Exactneſs in her Steps, that all that behold your Converſation, may ſee <hi>Her</hi> living in You.</p>
+            <p>It was <hi>Her</hi> earneſt deſire you might ſurvive, and God hath fulfilled it. She hath left You in her <hi>Province,</hi> clothed with her <hi>Mantle.</hi> And may a double Portion of her Spirit reſt upon
+<pb facs="tcp:96692:4"/>You! that You may honour God, as She did. And that You may enjoy a long and proſperous Life here; and then aſcend to <hi>Heaven,</hi> and partake toge<g ref="char:EOLhyphen"/>ther with Her in equal Glory, is the earneſt Prayer of,</p>
+            <closer>
+               <salute>Madam,</salute> 
+               <signed>Your much obliged, and moſt humble Servant, <hi>NATH. PARKHURST.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 17. line 17. for <hi>and his,</hi> read <hi>and in his.</hi> P. 19. l. 11. f. <hi>is before us,</hi> r. <hi>is ſet before us.</hi> P. 56. in the Margin, f. <hi>Suſſex,</hi> r. <hi>Suffolk.</hi> P. 106. l. 9, 10. f. <hi>Heaven makes,</hi> r. <hi>it makes.</hi> P. 108. l. 10. f. <hi>rational,</hi> r. <hi>notional.</hi> P. 114. l. 1. f. <hi>the End,</hi> r. <hi>his End.</hi> P. 151. l. <hi>ult.</hi> f. <hi>in the State,</hi> r. <hi>in this State.</hi> Some few other leſſer Miſtakes of a Letter or two in a word, may be eaſily taken notice of, and mended in the reading.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:96692:4"/>
+            <head>A SERMON PREACHED At the FUNERAL of the Lady <hi>Elizabeth Brooke &amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 COR. XV. 58.</hi>
+                  </bibl>
+                  <p>Therefore, my beloved Brethren, be ye ſtedfaſt, unmovable, always abound<g ref="char:EOLhyphen"/>ing in the Work of the Lord, for<g ref="char:EOLhyphen"/>aſmuch as you know that your La<g ref="char:EOLhyphen"/>bour is not in vain in the Lord.</p>
+               </q>
+            </epigraph>
+            <p>THE Goſpel of our <hi>Bleſſed Saviour</hi> hath many <hi>Excellen<g ref="char:EOLhyphen"/>cies</hi> in it, inviting us to ac<g ref="char:EOLhyphen"/>cept, and obey it. For,</p>
+            <p>
+               <pb n="2" facs="tcp:96692:5"/>
+               <hi>Firſt,</hi> The matter of it is <hi>Grace,</hi> in the moſt kind and condeſcend<g ref="char:EOLhyphen"/>ing Offers thereof; And <hi>Holineſs,</hi> deſcribed in the exacteſt Rules for the management of our Hearts, and Lives; no Ethicks being com<g ref="char:EOLhyphen"/>parable to the Precepts of it.</p>
+            <p>
+               <hi>Secondly,</hi> The Author of it, is, The Prince of Peace, and King of Kings, The Eternal Son of God, <hi>The Brightneſs of his Father's Glory, and expreſs Image of has Per<g ref="char:EOLhyphen"/>ſon.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> The end of it, is, The moſt eminent Diſplay of all the Perfections, and Attributes of God. For,</p>
+            <p>His Power is moſt admirably manifeſted in the Miracles that have confirmed it, and in the ſuc<g ref="char:EOLhyphen"/>ceſs
+<pb n="3" facs="tcp:96692:5"/>of it upon the Minds of ma<g ref="char:EOLhyphen"/>ny, who have been changed by it into the Divine Image.</p>
+            <p>His Wiſdom alſo ſhines moſt illuſtriouſly in that Contrivance in it of the Harmony between His offended Juſtice, and his Mercy, <hi>in being Juſt, and yet the Juſtifier of him that believes in Jeſus.</hi>
+            </p>
+            <p>Moreover, his Holineſs is great<g ref="char:EOLhyphen"/>ly declared in it, in the ſatisfacti<g ref="char:EOLhyphen"/>on and ſufferings of his only Son.</p>
+            <p>And above all, his Mercy and Goodneſs is moſt eminently ex<g ref="char:EOLhyphen"/>preſt in it, by his free Acceptance of them that repent of their Sins, believe in his Son, and ſincerely obey him, (notwithſtanding their many Infirmities,) entertaining them with the greateſt Kindneſs and Love, beyond expreſſion, be<g ref="char:EOLhyphen"/>yond conception. And,</p>
+            <p>
+               <pb n="4" facs="tcp:96692:6"/>
+               <hi>Fourthly,</hi> As one of its moſt glorious <hi>Excellencies,</hi> The Encou<g ref="char:EOLhyphen"/>ragement to receive, and obey it, is no leſs than the Promiſe of an unſpeakable Future Happineſs in our Souls immediatly after Death, and of a moſt glorious Reſurrecti<g ref="char:EOLhyphen"/>on of our Bodies (in the laſt day) unto a Life Eternal, and Enjoy<g ref="char:EOLhyphen"/>ments no leſs excellent, than du<g ref="char:EOLhyphen"/>rable.</p>
+            <p>Of which the Apoſtle diſcour<g ref="char:EOLhyphen"/>ſeth largely in this Chapter, with abundant <hi>Demonſtration</hi> of the truth of it; concluding with this pra<g ref="char:EOLhyphen"/>ctical <hi>Inference</hi> in the Text, <hi>There<g ref="char:EOLhyphen"/>fore my Beloved, &amp;c.</hi>
+            </p>
+            <p>In which Words (beſides ma<g ref="char:EOLhyphen"/>ny things which I omit) we have obſervable,</p>
+            <p>
+               <pb n="5" facs="tcp:96692:6"/>
+Firſt, The Duty of Chriſtians propoſed: <hi>Be ye ſtedfaſt, unmova<g ref="char:EOLhyphen"/>ble, always abounding in the Work of the Lord.</hi>
+            </p>
+            <p>Secondly, The Reward of ac<g ref="char:EOLhyphen"/>compliſhing the Duty: <hi>Your La<g ref="char:EOLhyphen"/>bour is not in vain in the Lord.</hi>
+            </p>
+            <p>Thirdly, The Rational Infe<g ref="char:EOLhyphen"/>rence, or Concluſion from the cer<g ref="char:EOLhyphen"/>tainty of the Reward: <hi>Therefore, my Beloved, be ye ſtedfaſt, &amp;c. for<g ref="char:EOLhyphen"/>aſmuch, &amp;c.</hi>
+            </p>
+            <p>Of which Things I ſhall diſ<g ref="char:EOLhyphen"/>courſe in this Method, ſhewing,</p>
+            <p n="1">I. It, is our Duty to be em<g ref="char:EOLhyphen"/>ployed in the Work of the Lord.</p>
+            <p n="2">II. That we ought to attend it with ſteadineſs.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:96692:7"/>
+III. That we ſhould be per<g ref="char:EOLhyphen"/>petually progreſſive in it.</p>
+            <p n="4">IV. That the Recompence will anſwer the Labour; For, it <hi>ſhall not be in vain.</hi>
+            </p>
+            <p n="1">I. It is our Duty to be employ<g ref="char:EOLhyphen"/>ed in the Work of the Lord. It is called His <hi>Work,</hi> becauſe it is enjoyn'd by His <hi>Laws,</hi> encouraged by His <hi>Promiſes,</hi> and performed by His <hi>Aids.</hi> For otherwiſe it might have been termed Our Work, it being the whole <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> Exerciſe which is intended by it.</p>
+            <p>In this therefore is compre<g ref="char:EOLhyphen"/>hended,</p>
+            <p n="1">1. The Labours and Induſtry required of us, towards the attain<g ref="char:EOLhyphen"/>ing neceſſary, ſound, and ſufficient
+<pb n="7" facs="tcp:96692:7"/>knowledge of the Great Principles of Faith, and of the Rules For con<g ref="char:EOLhyphen"/>ducting our Converſation, and the encouragements to Holineſs con<g ref="char:EOLhyphen"/>tained in the gracious Promiſes, and the Cautions againſt Sin, which we have in the ſevere Threatnings diſperſed through the Scriptures of the Old and New Teſtament, without which Know<g ref="char:EOLhyphen"/>ledg, the Heart cannot be good, nor the Life purified, or ſuitable to the Chriſtian Profeſſion: where<g ref="char:EOLhyphen"/>fore we are directed to <hi>ſearch the Scriptures, S.</hi> John 5.39. <hi>To incline our Ears to Wiſdom, to apply our Hearts to Underſtanding, to cry af<g ref="char:EOLhyphen"/>ter Knowledg, and lift up our Voice for Underſtanding, to ſeek hit as Sil<g ref="char:EOLhyphen"/>ver, and ſearch for her as for hid Treaſures;</hi> Prov. 2.2, 3, 4.</p>
+            <p>And certainly the Wickedneſs of the moſt of Men among us,
+<pb n="8" facs="tcp:96692:8"/>is greatly imputable to their ut<g ref="char:EOLhyphen"/>ter Ignorance of theſe things, or a very ſlight and inconſiderable Knowledg of them. For Igno<g ref="char:EOLhyphen"/>rance of God, Chriſt, and his ho<g ref="char:EOLhyphen"/>ly Spirit, and of his Attributes and providence, prevents all In<g ref="char:EOLhyphen"/>clination to Piety. Ignorance of the Rules for managing our Lives, prevents all that Regularity in Converſation that is required. Ig<g ref="char:EOLhyphen"/>norance of the Promiſes ſuppreſ<g ref="char:EOLhyphen"/>ſes all the Incourgement to it; and Ignorance of the Threatnings hides all that which ſhould move that Fear that is neceſſary to engage us in it. And all this Ignorance proceeds from Slothfulneſs, and Unwillingneſs to uſe Diligence in ſcearching and underſtanding the Scriptures, in which are the Treaſures of all needful Know<g ref="char:EOLhyphen"/>ledg. And therefore the firſt
+<pb n="9" facs="tcp:96692:8"/>thing in this Work of the Lord enjoyn'd us, is an induſtrious En<g ref="char:EOLhyphen"/>deavour after Knowledg, by be<g ref="char:EOLhyphen"/>ing converſant in the Scriptures, by reading, or at leaſt diligently hearing them.</p>
+            <p n="2">2. There is included in it all that belongs to Repentance to<g ref="char:EOLhyphen"/>wards God, conſiſting in a deep Senſe of our many Sins againſt God, Chriſt, his Holy Spirit, our Neighbours, and our own Souls; by which God hath been diſho<g ref="char:EOLhyphen"/>noured, Chriſt ſlighted, his Holy Spirit grieved, our Neighbours injured, and our own Souls pol<g ref="char:EOLhyphen"/>luted, debaſed, and expoſed to the Wrath of God: as alſo in confeſſing them with Shame and Grief, offering the Sacrifice of a broken and contrite Heart: and in an hatred of them all attended with ſincere forſaking them, <hi>de<g ref="char:EOLhyphen"/>nying
+<pb n="10" facs="tcp:96692:9"/>Ungodlinſs and worldly Luſts, and ſuffering no Sin to reign in our mortal Bodies;</hi> being able to atteſt, that (upon making a diligent ſearch) there is no known Sin of Omiſſion or Commiſſion allowed, loved, or favoured by us: But that every ſuch Sin is oppoſed by our Purpo<g ref="char:EOLhyphen"/>ſes, Prayers, and true Endeavours.</p>
+            <p n="3">3. To this muſt alſo be refer'd, all that is included in Faith. And that comprehends a ſettled Be<g ref="char:EOLhyphen"/>lief of the Being and All-Govern<g ref="char:EOLhyphen"/>ing Providence of God, and of the Truth, or Divine Authority of the Scriptures; A continual depend<g ref="char:EOLhyphen"/>ing on the Power, Wiſdom, and Goodneſs of God; and the re<g ref="char:EOLhyphen"/>ceiving his Son Jeſus Chriſt in all his Offices, as a Prophet, Prieſt, and King; <hi>And as the Lord our Righteouſneſs, our Advocate with the Father, the Propitiation for our Sins,
+<pb n="11" facs="tcp:96692:9"/>the End of the Law for Righteouſneſs to them that believe, and as made of God unto us Wiſdom, Righteouſneſs, Sanctification and Redemption.</hi> And this we do when deſigning Salva<g ref="char:EOLhyphen"/>tion by Him, we ſearch the Scrip<g ref="char:EOLhyphen"/>tures, conſidered as the Word of Chriſt, with dependance on the Holy Spirit as the Spirit of the Son, that we may underſtand the way of Salvation, and know the things of our Peace; and when apprehending our Guilt and Dan<g ref="char:EOLhyphen"/>ger by Sin, we ſeek the Pacifi<g ref="char:EOLhyphen"/>cation of our Conſciences, and the appeaſing of God, by belie<g ref="char:EOLhyphen"/>ving, meditating upon, and ap<g ref="char:EOLhyphen"/>plying his Death and Blood as a Sacrifice, and Satisfaction for Sin; and when we commend all our Requeſts to God, with Depen<g ref="char:EOLhyphen"/>dance on his Interceſſion; and when apprehending his Exaltation
+<pb n="12" facs="tcp:96692:10"/>we become earneſtly obedient to him, and depend upon him for Grace, and Strength againſt all our ſpiritual Enemies, and hope to receive from him the Crown of a bleſſed <hi>Immortality,</hi> and a miraculous glorious <hi>Reſurrection.</hi>
+            </p>
+            <p n="4">4. To this pertains all that the Scriptures intend by Holineſs, conſiſting in the Imitation of the Divine Imitable Perfection, <hi>viz.</hi> the Wiſdom, Righteouſneſs, Pu<g ref="char:EOLhyphen"/>rity, Faithfulneſs, Goodneſs, and Mercy of our Creator; in clean<g ref="char:EOLhyphen"/>ſing our Hands, and purifying our Hearts; in ſincerely attend<g ref="char:EOLhyphen"/>ing the Duties of both Tables of the Law, with reſpect to God and our Neighbour; and in mor<g ref="char:EOLhyphen"/>tifying all thoſe <hi>Luſts that war a<g ref="char:EOLhyphen"/>gainſt the Soul; as the Luſts of the Fleſh,</hi> including Intemperance, and Uncleanneſs: <hi>The Luſts of
+<pb n="13" facs="tcp:96692:10"/>the Eye,</hi> which are Avarice, and Covetouſneſs, and <hi>the Pride of Life, i.e.</hi> The ambitious purſuit of Honour and Applauſe, and the affecting the Pomp and Bra<g ref="char:EOLhyphen"/>very of the World: and in fil<g ref="char:EOLhyphen"/>ling our Minds with all the Di<g ref="char:EOLhyphen"/>vine Graces, and holy Affections of Fear, Love, Truſt, and Hope towards God, and of Love, Meek<g ref="char:EOLhyphen"/>neſs, Humility, and Kindneſs to<g ref="char:EOLhyphen"/>wards Men; And in obeying the Laws of Chriſt, and following his Example, in being in a great meaſure holy, harmleſs, undefi<g ref="char:EOLhyphen"/>led, and ſeparated from Sinners; In doing Good, reproving Sin, delighting to do our Father's Will, and ſubmitting to his holy Plea<g ref="char:EOLhyphen"/>ſure in all things, willingly drink<g ref="char:EOLhyphen"/>ing the Cup he putteth into our hands; and in glorifying him on Earth, that he may glorify us in Heaven.</p>
+            <p n="5">
+               <pb n="14" facs="tcp:96692:11"/>
+5. To this belongs all that the Scripture chargeth upon us in thoſe full and comprehenſive Pre<g ref="char:EOLhyphen"/>cepts, of, <hi>fearing God, departing from Evil; loving Him with all the Heart, Mind, and Might, keeping his Charge, doing his Will, walking in his Coun<g ref="char:EOLhyphen"/>ſel, chuſing the narrow Way, and ex<g ref="char:EOLhyphen"/>ceeding the Righteouſneſs of Scribes and Phariſes;</hi> by being impartial in our Obedience, and chiefly at<g ref="char:EOLhyphen"/>tending the weightier matters of the Law, and by being ſincere and humble, not glorying in our pious Attainments and Actions, but rather hiding them; except<g ref="char:EOLhyphen"/>ing thoſe things which for Exam<g ref="char:EOLhyphen"/>ple's ſake muſt be publick, and ſuch as the concealing them pro<g ref="char:EOLhyphen"/>ceeds from Cowardiſe, and fear of Reproach.</p>
+            <p n="6">6. There is included in it, the faithful managing of our parti<g ref="char:EOLhyphen"/>cular
+<pb n="15" facs="tcp:96692:11"/>Callings, as the Magiſtrates <hi>being juſt, and ruling over Men in the Fear of God:</hi> the Miniſters Care of Souls, <hi>praying for the People, and ſhewing them the right way,</hi> endea<g ref="char:EOLhyphen"/>vouring to turn many to Righte<g ref="char:EOLhyphen"/>ouſneſs: The Peoples revering, cheerfully attending and obeying them that watch for their Souls: The Parents care and bringing up Children in the Nurture and Admonition of the Lord; the Child's Obedience, the Maſter's Juſtice, and Kindneſs; the Ser<g ref="char:EOLhyphen"/>vant's Diligence and Faithfulneſs; and the Subjects unſpotted <hi>Allegi<g ref="char:EOLhyphen"/>ance,</hi> and Obedience for <hi>Conſci<g ref="char:EOLhyphen"/>ence</hi> ſake: And all other our Du<g ref="char:EOLhyphen"/>ties in our ſeveral Places, Stati<g ref="char:EOLhyphen"/>ons, Employments, and Relati<g ref="char:EOLhyphen"/>ons.</p>
+            <p n="7">7. There muſt be added, as pertaining to it, all the moſt ſe<g ref="char:EOLhyphen"/>rious
+<pb n="16" facs="tcp:96692:12"/>part of the Chriſtian Life, employed in fervent Prayers, and Thankſgiving, Self-Examination, ſerious and Divine Meditations, and ſolemn and fruitful attending the Publick Worſhip of God, conſiſting chiefly in the Word preached, and in Prayer, and Sa<g ref="char:EOLhyphen"/>craments.</p>
+            <p>Laſtly, To this muſt be joyn<g ref="char:EOLhyphen"/>ed the moſt refined, and ſpiritual part of Religion, conſiſting in ſuppreſſing the moſt inward Mo<g ref="char:EOLhyphen"/>tions of Vanity, Pride, Envy, Malice, Unbelief, worldly inor<g ref="char:EOLhyphen"/>dinate Love, carnal Affections and Deſires; in keeping the Mind (as much as may be) intent, and without Wandrings in Prayer, and other devout Exerciſes of Religi<g ref="char:EOLhyphen"/>on, and in attending in them to more than a natural Fervour and Devotion in the <hi>Imagination</hi> only,
+<pb n="17" facs="tcp:96692:12"/>moved by well compoſed, and fit Words, even to a Devotion conſiſting in the real Exerciſe of Faith, Humility, holy Love and Fear, and other Graces; and in raiſing our Minds above the World, and things of this Life, to the Deſires, Hopes, and Ex<g ref="char:EOLhyphen"/>pectation of the Joys and Plea<g ref="char:EOLhyphen"/>ſures of Eternity; and in main<g ref="char:EOLhyphen"/>taining a real and delightful Con<g ref="char:EOLhyphen"/>verſe with God daily; and in a careful thankful acknowledging Him in all the Good that befal<g ref="char:EOLhyphen"/>leth us: and inſenſibly apprehen<g ref="char:EOLhyphen"/>ding that our Happineſs conſiſteth in the Knowledg of Him, and his Love and Favour towards us in Chriſt. All this is our Duty, and included in the Work of the Lord, and we may not willingly omit any thing of it. By which we may perceive, that though in
+<pb n="18" facs="tcp:96692:13"/>ſome reſpects, <hi>Chriſt's Yoke is eaſy, and his Burden light,</hi> viz. being conſidered with its Reward, and the Aſſiſtances of Divine Grace, and compared with the wicked Man's Way and End conſidered together; yet it is not altogether eaſy, ſince ſo much is to be done. Religion and Godlineſs have their Difficulties, and he muſt be dili<g ref="char:EOLhyphen"/>gent that would not fall ſhort of the Glory of God, ſince the Du<g ref="char:EOLhyphen"/>ties (beſides that, they are great) are ſo numerous, as hath been now repreſented according to the Scriptures.</p>
+            <p n="2">II. All this muſt be endea<g ref="char:EOLhyphen"/>voured, and practiſed with much Steadineſs. Having thus <hi>begun in the Spirit, we muſt not end in the Fleſh. Having put our Hand to the Plough, we may not draw it back, and
+<pb n="19" facs="tcp:96692:13"/>make our ſelves unworthy of the King<g ref="char:EOLhyphen"/>dom of God.</hi>
+            </p>
+            <p>Whatever may be the Rage of Satan, and whatever Objections may ariſe in our own Hearts a<g ref="char:EOLhyphen"/>gainſt any part of our Duty, we may not quit it. But conſider<g ref="char:EOLhyphen"/>ing that the Eye of God is upon us, and that it is neceſſary to per<g ref="char:EOLhyphen"/>ſevere to the end; and looking at the Joy that is before us, and imploring the Aids of the Holy Ghoſt, we muſt break thoſe Bonds of Temptation to Sin, in ſunder, and caſt away ſuch Cords from us, and remain fixed in Pi<g ref="char:EOLhyphen"/>ety, conſtant to Godlineſs, un<g ref="char:EOLhyphen"/>moveably reſolved to abide in it, <hi>Cleaving to God with purpoſe of Heart, Acts</hi> 11.23. and avoiding that Reprehenſion in Hoſ. 6.4. <hi>Your Goodneſs is as a Morning Cloud, and as the early Dew it goeth away.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:96692:14"/>
+And that we may be the more animated to Conſtancy in Reli<g ref="char:EOLhyphen"/>gion and Godlineſs, let us conſi<g ref="char:EOLhyphen"/>der the many glorious Examples of this Steadineſs. <hi>Noah</hi> conti<g ref="char:EOLhyphen"/>nued firm in his Obedience to God, in the midſt of a very wick<g ref="char:EOLhyphen"/>ed World: Gen. 7.1. <hi>Thee have I ſeen Righteous in this Generation.</hi>
+            </p>
+            <p>Lot in the midſt of the pollu<g ref="char:EOLhyphen"/>ted <hi>Sodomites</hi> preſerved himſelf, and mightily regretted their Wic<g ref="char:EOLhyphen"/>kedneſs. <hi>Joſeph</hi> in <hi>Pharaoh</hi>'s Court, and <hi>Moſes</hi> in the Court of ano<g ref="char:EOLhyphen"/>ther of that Name: <hi>Obadiah</hi> in <hi>Ahab's, David</hi> in <hi>Saul's, Daniel, Ezra</hi> and <hi>Nehemiah</hi> in the Courts of the <hi>Perſian</hi> Emperors, remain<g ref="char:EOLhyphen"/>ed ſteady in Holineſs, notwith<g ref="char:EOLhyphen"/>ſtanding varieties of Temptations both of the alluring, and affright<g ref="char:EOLhyphen"/>ing kind.</p>
+            <p>
+               <pb n="21" facs="tcp:96692:14"/>
+The holy <hi>Apoſtles</hi> and <hi>Primtive Chriſtians,</hi> and the Antient and Modern <hi>Martyrs,</hi> preſerved their Integrity in the midſt of violent Temptations to deſert Religion. They ſtood like unmoveable <hi>Rocks</hi> in raging Seas, and turn<g ref="char:EOLhyphen"/>ed back the Force of Tempta<g ref="char:EOLhyphen"/>tions, as they do the inſulting Waves.</p>
+            <p>Wherefore let this be our firm Reſolution in the Strength of God, That the World ſhall ne<g ref="char:EOLhyphen"/>ver gain, nor force us to revolt from Him, and his holy Ways: but that whatever Changes may come, we will be the ſame; and though <hi>the Mountains ſhould be remo<g ref="char:EOLhyphen"/>ved, and the Hills carried into the midſt of the Seas,</hi> we will ſtill keep Faith and a good Conſcience, <hi>be<g ref="char:EOLhyphen"/>ing ſtedfaſt and unmoveable</hi> in the Work of the Lord.</p>
+            <p n="3">
+               <pb n="22" facs="tcp:96692:15"/>
+III. We ought not only to be ſtedfaſt, but alſo perpetually pro<g ref="char:EOLhyphen"/>greſſive in all this Duty, <hi>like the ſhining Light, ſhining more and more to the perfect Day.</hi> Our Repen<g ref="char:EOLhyphen"/>tance muſt be increaſed, and per<g ref="char:EOLhyphen"/>fected by greater degrees of Mor<g ref="char:EOLhyphen"/>tification. Our Faith muſt grow, aiming at the <hi>Patriarch</hi>'s Degree, <hi>who was ſtrong in Faith, giving Glory to God; and who againſt Hope be<g ref="char:EOLhyphen"/>lieved in Hope:</hi> Rom. 4.18, 20. Our Love muſt be more intenſe, our Obedience more exact, wil<g ref="char:EOLhyphen"/>ling and chearful; our Charity more compleat, and every Grace aſcending, and aſpiring after greater Degrees, <hi>going on conquer<g ref="char:EOLhyphen"/>ing and to conquer:</hi> which thing is very poſſible, for Grace is as ca<g ref="char:EOLhyphen"/>pable of Growth and Increaſe, as the Plants in the Field, or the
+<pb n="23" facs="tcp:96692:15"/>Cloud of an hand's breadth. It is compared to a Grain of Mu<g ref="char:EOLhyphen"/>ſtard Seed, <hi>Which from the leaſt of Seeds, grows up into the greateſt of Herbs; St.</hi> Mat. 13.31, 32.</p>
+            <p>We may aſſuredly (if we ear<g ref="char:EOLhyphen"/>neſtly deſign it) mightily advance in Grace, and become much more humble, holy, obedient, morti<g ref="char:EOLhyphen"/>fied, patient and heavenly, and may add much to our preſent At<g ref="char:EOLhyphen"/>tainments, and may carry our Victories over Temptations much further, to higher degrees of Con<g ref="char:EOLhyphen"/>queſt and Triumph, even on this ſide Heaven. And as we may, ſo we ought; for this God requires of us, <hi>That we ſhould bring forth much Fruit; that from Babes we ſhould advance to a more perfect ſtature in Christ, and encreaſe with all the En<g ref="char:EOLhyphen"/>creaſes of God.</hi> And that in pro<g ref="char:EOLhyphen"/>portion to our Means, Mercies,
+<pb n="24" facs="tcp:96692:16"/>Chaſtiſements, Experience, and Time offered us, we ſhould grow in Grace, and in the Knowledg and Love of God, and Chriſt; to which there is no Encourage<g ref="char:EOLhyphen"/>ment wanting. For,</p>
+            <p n="4">IV. The Recompence will a<g ref="char:EOLhyphen"/>bundantly anſwer the Labour, which ſhall not be in vain. We ſhall find a ſure and ſufficient Re<g ref="char:EOLhyphen"/>ward; partly in Peace of Mind, Serenity of Conſcience, and pre<g ref="char:EOLhyphen"/>ſent Joy in the Holy Ghoſt; and chiefly in the future State. For,</p>
+            <p n="1">1. Having been ſtedfaſt, and abounding in our Duty, when our Souls ſhall leave theſe Taberna<g ref="char:EOLhyphen"/>cles of Clay, (whoſe Foundati<g ref="char:EOLhyphen"/>ons are in the Duſt, as their firſt Principle) Angels ſhall con<g ref="char:EOLhyphen"/>vey them to Heaven, and there Chriſt will receive them, and
+<pb n="25" facs="tcp:96692:16"/>God the Father will acknowledg them: and, being entred into that bleſſed Place, we ſhall have all the Happineſs our Souls are capa<g ref="char:EOLhyphen"/>ble of in the State of Separation from the Body.</p>
+            <p>And this is no leſs than an en<g ref="char:EOLhyphen"/>tire Deliverance from Sin, Sor<g ref="char:EOLhyphen"/>row, Fear, Temptations, and Afflictions, with the Acquiſition of perfect Grace, and likeneſs to the Angels in Humility, Purity, Zeal, Reverential Fear of God, delight in Him, and Charity one to another.</p>
+            <p>Moreover, We ſhall be little leſs than <hi>equal</hi> to them in Peace, and Joy, and the Enjoyment of God in a Viſion of Him by <hi>Intel<g ref="char:EOLhyphen"/>lectual Sight,</hi> far tranſcending our beſt Knowledg of Him here by Faith. For now we ſee him by Faith only, in his Works, Provi<g ref="char:EOLhyphen"/>dence,
+<pb n="26" facs="tcp:96692:17"/>and Word; all which a<g ref="char:EOLhyphen"/>mounts comparatively but to the ſeeing him through a <hi>Glaſs darkly;</hi> but in Heaven we ſhall <hi>ſee Him face to face, and know Him</hi> in ſome ſort <hi>as we are known.</hi> 1 Cor. 13.12.</p>
+            <p n="2">2. Having been ſtedfaſt, and abounding in Piety, and Holi<g ref="char:EOLhyphen"/>neſs, we ſhall in the end of the World recover our Bodies again with advantage; for they ſhall be raiſed again in Incorruption, Glo<g ref="char:EOLhyphen"/>ry and Power, being made <hi>Spi<g ref="char:EOLhyphen"/>ritual Bodies;</hi> verſ. 42, 43, 44. <hi>This Corruptible ſhall then put on In<g ref="char:EOLhyphen"/>corruption, and this Mortal ſhall put on Immortality, and Death ſhall be ſwallowed up in Victory.</hi>
+            </p>
+            <p>And who can expreſs the Joy, and Pleaſure that will ariſe from the Soul's re-entring into the new-raiſed Body! As a Prince that
+<pb n="27" facs="tcp:96692:17"/>leaves an old Palace till it be rebuilt with much more Glory, Mag<g ref="char:EOLhyphen"/>nificence and Splendor, returns into it with more Pleaſure than ever he had in it before: ſo the Soul will rejoyce much more in its repaired Fabrick, than ever before during the time of this mortal Life; eſpecially upon finding it purged entirely from Sin, the fretting Leproſy in the Walls of it, which could never be cleanſed, but by the breaking of it down. And probably there will be a mighty Addition to this Pleaſure, by the Soul's <hi>ſenſible</hi> uniting with it, or joyning to the Body, with a <hi>Perception</hi> of doing ſo.</p>
+            <p>The firſt Union that was made between them, was (to the Soul) inſenſibly performed by the meer Hand and Power of God, in the firſt <hi>Formation</hi> of the Body; and
+<pb n="28" facs="tcp:96692:18"/>ſo the Felicity of that Uniting was never underſtood. But at the Reſurrection, the Body being rai<g ref="char:EOLhyphen"/>ſed again, and moſt gloriouſly formed, and the Soul coming down from Heaven, and know<g ref="char:EOLhyphen"/>ing to what end it deſcends, will with a ſtrange Pleaſure ſenſibly enter again into its old Habitati<g ref="char:EOLhyphen"/>on repaired and made glorious.</p>
+            <p>And being raiſed from our Graves with this Pleaſure of the Reunion of Soul and Body, we ſhall be conducted to Chriſt's Right-hand, and hear ſuch Words as theſe ſpoken to us, by Him the Judg and Lord of all; <hi>Come, ye Bleſſed of my Father, inherit the Kingdom prepared for you from the Foundation of the World:</hi> And, <hi>Well done good and faithful Servant, en<g ref="char:EOLhyphen"/>ter you into the Joy of your Lord. When the Ungodly ſhall hear the
+<pb n="29" facs="tcp:96692:18"/>Words of the Curſe,</hi> (more terri<g ref="char:EOLhyphen"/>ble than the Thunder on Mount <hi>Sinai</hi>) <hi>Depart from me ye Curſed in<g ref="char:EOLhyphen"/>to everlaſting Fire, prepared for the Devil, and his Angels.</hi>
+            </p>
+            <p>And then together with all the Church of God, and the holy Angels, we ſhall (Souls and Bo<g ref="char:EOLhyphen"/>dies united together, never more to be ſeparated) aſcend into the higheſt Heaven, and enjoy, throughout an Eternity, the ful<g ref="char:EOLhyphen"/>leſt, moſt refined, and moſt a<g ref="char:EOLhyphen"/>greeable Happineſs, that our Na<g ref="char:EOLhyphen"/>tures are capable of; which if we can believe, depending upon the Verity of the Scriptures, we muſt acknowledg our <hi>Labour is not in vain.</hi>
+            </p>
+            <p>And why ſhould we make any doubt of it? Have we not all the Evidence we can have of this matter! The Scriptures have the
+<pb n="30" facs="tcp:96692:19"/>Atteſtation of multitudes of Mi<g ref="char:EOLhyphen"/>racles performed, and Prophecies fulfilled. They have, the <hi>Signa<g ref="char:EOLhyphen"/>ture</hi> of God alſo upon them in the Holineſs of the Matter, and the Ma<g ref="char:EOLhyphen"/>jeſty of the Stile in many places; <hi>never Book ſpake like this Book.</hi>
+            </p>
+            <p>The Matters of Faith in it are ſo high, the Myſteries ſo grave, and ſublime, the Precepts ſo ho<g ref="char:EOLhyphen"/>ly and pious, the Promiſes ſo a<g ref="char:EOLhyphen"/>greeable, and refreſhing to Minds that are mortified, and purged from Vice, the Threatnings ſo ſolemn, ſevere, and juſt; the Ex<g ref="char:EOLhyphen"/>amples ſo glorious, and the whole ſo admirable, that if we conſider it, we cannot imagine the Au<g ref="char:EOLhyphen"/>thor to be other than God, who is moſt holy, juſt, and good.</p>
+            <p>There being then no doubt but that the holy Scriptures will be in all Points verified, and in
+<pb n="31" facs="tcp:96692:19"/>particular in the Promiſe of future Happineſs, conſiſting in a glorious Reſurrection, and a bleſſed Im<g ref="char:EOLhyphen"/>mortality, as the Reward of true Holineſs: Let us be perſwaded to comply with God in the things he requireth of us; And let us manage our Lives according to our <hi>Chriſtian</hi> Profeſſion, and our Vowes in <hi>Baptiſm,</hi> and ſince.</p>
+            <p>And let us hearken no more to the Charms of Senſe, the Voice of a tempting World, and the Whiſpers of the Devil our great Enemy, enticing us to Sin, and to abide in evil, and unholy Ways and Practices.</p>
+            <p>
+               <hi>But let us deny Ungodlineſs and worldly Luſts, and live ſoberly, righ<g ref="char:EOLhyphen"/>teouſly, and godly in this preſent World, putting on the Armour of Light and Righteouſneſs on the Right-hand and on the Left:</hi> And let us in earneſt
+<pb n="32" facs="tcp:96692:20"/>make Religion the great Buſineſs of our Lives, believing God's Pro<g ref="char:EOLhyphen"/>miſes, and expecting this moſt glorious Reward.</p>
+            <p>But ſome may poſſible object in this manner.</p>
+            <p>We have heard the manifold Duties of Religion, and have ſometimes conſidered of the great Reward propoſed. But we find (to our Diſcouragement) that Religion is a Wiſdom too high for us, and the Practice of it a Province too difficult. It is a way too ſtrait, and a Gate too narrow, a Yoke too preſſing, a Burden too heavy, a ſevere War<g ref="char:EOLhyphen"/>fare, a tedious Travel. It is im<g ref="char:EOLhyphen"/>poſſible to comply with it; and if we would endeavour the Practice of it, we cannot effect it. It were more eaſy to us to dig in the Mines, or ſerve in the Gallies,
+<pb n="33" facs="tcp:96692:20"/>then to break off our Sins, and live a holy Life. And therefore urge us not to attempt Impoſſi<g ref="char:EOLhyphen"/>bilities.</p>
+            <p>My Anſwer to this Objection is, That it is a Miſtake, and that what is required, is through Di<g ref="char:EOLhyphen"/>vine Aſſiſtance and Grace very poſſible, and certainly practica<g ref="char:EOLhyphen"/>ble. The Difficulties are great, but there is a Grace given to Be<g ref="char:EOLhyphen"/>lievers that ſurmounts them all, that levels the Mountains, fills up the Valleys, makes the crooked places ſtreight, and the rough places even; that opens the blind Eyes of Mens Minds, and ſoft<g ref="char:EOLhyphen"/>neth hard Hearts, and ſubdues re<g ref="char:EOLhyphen"/>bellious Wills, and regulates diſ<g ref="char:EOLhyphen"/>ordered Affections; that enligh<g ref="char:EOLhyphen"/>tens, and enables to will and to do, and out of Weakneſs makes ſtrong, and calls things that are
+<pb n="34" facs="tcp:96692:21"/>not, as if they were, and raiſes dead Souls to Life. Therefore, let it not be ſaid, It is impoſſible to be Religious. But let Men beg the Grace that will make it poſſi<g ref="char:EOLhyphen"/>ble: And never let it be ſaid, it is impracticable, when Multitudes (though few in Compariſon of greater Multitudes) have lived in the practice and exerciſe of Holineſs.</p>
+            <p>
+               <hi>A Cloud of Witneſſes</hi> (as they are called, <hi>Heb.</hi> 12.1.) have gone before us in the practice of theſe things, <hi>though Men of like paſsions with us. The Patriarchs, Prophets, Apoſtles, Martyrs,</hi> and many others, have given us the Pattern and Proof of all this Piety and Godli<g ref="char:EOLhyphen"/>neſs Some of all ſorts have ſin<g ref="char:EOLhyphen"/>cerely, effectually, and ſucceſs<g ref="char:EOLhyphen"/>fully engaged in it; <hi>viz.</hi> ſome <hi>Kings, Princes,</hi> and <hi>Emperours,</hi> as
+<pb n="35" facs="tcp:96692:21"/>
+               <hi>David, Jehoſaphat, Hezekiah,</hi> &amp;c. ſome Generals of Armies, as <hi>Jo<g ref="char:EOLhyphen"/>ſhua,</hi> and <hi>Gideon, &amp;c.</hi> ſome Offi<g ref="char:EOLhyphen"/>cers of State, as <hi>Joſeph, Obediah,</hi> &amp;c. ſome Learned, Rich and Honou<g ref="char:EOLhyphen"/>rable; and ſome Poor, Mean, Il<g ref="char:EOLhyphen"/>literate, and Deſpifed Perfons: ſo that none of us, of what quality or condition ſoever, can ſay, Re<g ref="char:EOLhyphen"/>ligion and Godlineſs is Impracti<g ref="char:EOLhyphen"/>cable by Perſons of our Condi<g ref="char:EOLhyphen"/>tion and Circumſtances in the World.</p>
+            <p>Having then Patterns of Pie<g ref="char:EOLhyphen"/>ty in all Ranks and Conditions of Men, let us ſet theſe Exam<g ref="char:EOLhyphen"/>ples before us, and asking Grace, and imploring Aids from God, through the <hi>Mediator</hi> Chriſt Jeſus, let us imitate them, and be holy, as They were, in all manner of Converſation. And beſides theſe Ancient <hi>Examples,</hi> we have ſome
+<pb n="36" facs="tcp:96692:22"/>in this preſent <hi>Age,</hi> by whom it is evident, that Godlineſs in the Life, and Power, and Exactneſs of it, is really practicable.</p>
+            <p>We have now before us That which is ſufficient utterly to ſilence the Objection, I mean, The <hi>Re<g ref="char:EOLhyphen"/>mains</hi> and <hi>Memory</hi> of this <hi>Eminent</hi> LADY and <hi>Excellent</hi> CHRI<g ref="char:EOLhyphen"/>STIAN, whoſe great Piety was the Glory of this Place. And whoſe Receſs from amongſt us, (though She died full of dayes) hath filled many Hearts with a paſſionate Grief and Sorrow.</p>
+            <p>For though all that knew her Converſation (which was like that of <hi>Hizabeth</hi> in St. <hi>Luke</hi> 1.6. <hi>A walking in all the Commandments and Ordinances of the Lord, blameleſs</hi>) are mightily ſatisfied that her Soul reſteth with God in the Regions
+<pb n="37" facs="tcp:96692:22"/>of Light and Glory, (after which She with great, Zeal and diligence had long aſpired in a way of ſin<g ref="char:EOLhyphen"/>cere Obedience) Yet it is grievous to be deprived of One that was ſo <hi>fruitful in Age, and always rich in Good Works;</hi> and whoſe Prayers doubtleſs were through Chriſt ve<g ref="char:EOLhyphen"/>ry prevailing with God. Upon which Account not only Her <hi>Fa<g ref="char:EOLhyphen"/>mily,</hi> particular <hi>Friends,</hi> and this. <hi>Village,</hi> but the whole <hi>Church</hi> of God ſuſtains a great Loſs in Her Remove, and eſpecially this ſin<g ref="char:EOLhyphen"/>ful <hi>Nation,</hi> Conſidering that ſhe <hi>prayeth no more for this People.</hi>
+            </p>
+            <p>It would imploy a large Vo<g ref="char:EOLhyphen"/>lume to deſcribe fully the eminent Qualities with which God had en<g ref="char:EOLhyphen"/>dowed Her. The ſum of which I ſhall endeavour to repreſent, to this end, That God, in whom all
+<pb n="38" facs="tcp:96692:23"/>Her freſh Springs were, and from whom ſhe received all, may be glorified by it; And that we all may be moved to the Imitation of ſo compleat a Patern of that Sanctity that is attainable in this preſent and imperfect State; ha<g ref="char:EOLhyphen"/>ving had this Teſtimony from all that obſerved her, That ſhe was <hi>ſtedfaſt, unmoveable, and always a<g ref="char:EOLhyphen"/>bounding in the Work of the Lord.</hi>
+            </p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:96692:23"/>
+            <head>AN ACCOUNT OF THE <hi>Life and Death</hi> Of the LADY Elizabeth Brooke,</head>
+            <p>Including the <hi>Character</hi> given of Her in the Sermon preached at her Funeral.</p>
+         </div>
+         <div type="biography">
+            <pb facs="tcp:96692:24"/>
+            <pb n="41" facs="tcp:96692:24"/>
+            <head>THE <hi>Life and Death</hi> Of the LADY <hi>ELIZABETH BROOKE.</hi>
+            </head>
+            <p>THE Lady <hi>Elizabeth Brooke</hi> was born at <hi>Wigſale</hi> in <hi>Suſ<g ref="char:EOLhyphen"/>ſex,</hi> in <hi>January,</hi> 1601; Her Father was <hi>Thomas Culpepper</hi> of <hi>Wigſale</hi> in <hi>Suſſex,</hi>Eſquire, a Branch of an antient <hi>Family</hi> of Gentry of that Name, which was afterwards in her Brother advan<g ref="char:EOLhyphen"/>ced into the Rank of the Nobi<g ref="char:EOLhyphen"/>lity, who for his great Loyalty, and eminent Services done to the <hi>Crown,</hi> was created a <hi>Baron</hi> by <hi>Charles</hi> the Firſt, with the Title
+<pb n="42" facs="tcp:96692:25"/>of, [<hi>John</hi> Lord <hi>Culpepper</hi> of <hi>Tho<g ref="char:EOLhyphen"/>reſway.</hi>] Her Mother [was the Daughter of Sir <hi>Stephen Slaney.</hi>
+            </p>
+            <p>Thus ſhe had the Honour of a Genteel Extraction, and a Noble <hi>Alliance;</hi> and as her <hi>Family</hi> deri<g ref="char:EOLhyphen"/>ved an Honour upon her, ſo ſhe hath reflected an additional Glory upon her <hi>Family,</hi> by her great Vertues, having been one of the moſt Accompliſhed Perſons of the <hi>Age,</hi> whether conſidered as a <hi>Lady,</hi> or a <hi>Chriſtian.</hi>
+            </p>
+            <p>While ſhe was in her Infancy, ſhe loſt her <hi>Mother,</hi> and in her Childhood her <hi>Father;</hi> ſo that ſhe came early under the more peculiar Care and Patronage of God, who is in an eſpecial man<g ref="char:EOLhyphen"/>ner, the Father of the Father<g ref="char:EOLhyphen"/>leſs.</p>
+            <p>
+               <pb n="43" facs="tcp:96692:25"/>
+Her firſt Education was under her Grand-mother by the Mo<g ref="char:EOLhyphen"/>ther's ſide, the Lady <hi>Slaney.</hi>
+            </p>
+            <p>She had rare Endowments of Nature, an excellent Mind lodged in a fine Body, and under a beau<g ref="char:EOLhyphen"/>tiful Aſpect, ſomething of which remained even in her old Age. She had an extraordinary quick<g ref="char:EOLhyphen"/>neſs of Apprehenſion, a curious Fancy, great Solidity of Judg<g ref="char:EOLhyphen"/>ment, and a conſiderable Me<g ref="char:EOLhyphen"/>mory.</p>
+            <p>She was married very young to Sir <hi>Robert Brooke,</hi> Knight, (de<g ref="char:EOLhyphen"/>ſcended from a younger Brother of the Antient and Noble Family of the <hi>Brooks,</hi> formerly Lord <hi>Cobham,</hi>) a Perſon of a good Eſtate and Vertue, who lived with her ſix and Twenty Years, and died <hi>July</hi> 10. 1646; by whom ſhe had ſeven Children,
+<pb n="44" facs="tcp:96692:26"/>three <hi>Sons,</hi> and four <hi>Daughters,</hi> viz.</p>
+            <p>
+               <hi>James,</hi> who died an Infant.</p>
+            <p>
+               <hi>John,</hi> who lived Twenty ſix Years, and was married, but di<g ref="char:EOLhyphen"/>ed without Iſſue, <hi>Anno Dom.</hi> 1652.</p>
+            <p>
+               <hi>Robert,</hi> who had the Honour of Knighthood conferred upon him upon the <hi>King</hi>'s Reſtaurati<g ref="char:EOLhyphen"/>on; a <hi>Gentleman</hi> of fine Parts, and great Loyalty to his <hi>Prince,</hi> and Fidelity to his <hi>Country:</hi> He was a Member of that <hi>Parliament</hi> which brought the <hi>King</hi> from his Exile, and of the following <hi>Par<g ref="char:EOLhyphen"/>liament</hi> which began <hi>May</hi> the 8th, 1661.</p>
+            <p>He died as he was travelling through <hi>France, Anno Dom.</hi> 1669, in the 33d Year of his Age, much lamented by his Friends and Ac<g ref="char:EOLhyphen"/>quaintance: He was married al<g ref="char:EOLhyphen"/>ſo, but left no Childeren.</p>
+            <p>
+               <pb n="45" facs="tcp:96692:26"/>
+               <hi>Mary</hi> her Eldeſt Daughter, and the only Survivor, who inherits much of her Grace and Vertues.</p>
+            <p>
+               <hi>Elizabeth</hi> and <hi>Martha,</hi> Perſons of great Piety, were married to Gentlemen of fair Eſtates, and good Reputation, who had di<g ref="char:EOLhyphen"/>vers Children, and died, the El<g ref="char:EOLhyphen"/>der <hi>Anno Dom.</hi> 1647/8, in the 25th Year of her Age; the Younger <hi>Anno Dom.</hi> 1657, about the 29th Year of her Age.</p>
+            <p>
+               <hi>Anne,</hi> who died in her Child<g ref="char:EOLhyphen"/>hood.</p>
+            <p>They continued the two firſt Years in <hi>London,</hi> as Boarders, in the Houſe of the Lady <hi>Weld,</hi> her Aunt: From thence they remo<g ref="char:EOLhyphen"/>ved to <hi>Langly</hi> in <hi>Hartfordſhire,</hi> a Seat which her <hi>Husband</hi> purcha<g ref="char:EOLhyphen"/>ſed purpoſely for her Accommo<g ref="char:EOLhyphen"/>dation, that ſhe might be nearer, her <hi>Friends</hi> in <hi>London.</hi> And after
+<pb n="46" facs="tcp:96692:27"/>ſome Years ſtay there, they came to <hi>Cockfield,</hi> his <hi>Paternal</hi> Seat, and there ſhe paſſed the Reſidue of her Earthly Pilgrimage, excepting the two firſt Years of her Widow<g ref="char:EOLhyphen"/>hood. In all which places ſhe lived a rare Example of Good<g ref="char:EOLhyphen"/>neſs, and left a good Name be<g ref="char:EOLhyphen"/>hind her in every place, from which ſhe departed; and eſpeci<g ref="char:EOLhyphen"/>ally in the laſt, where ſhe paſſed the moſt, and laſt, and beſt of her time, and from which her Soul was tranſlated to Heaven.</p>
+            <p>She had many Excellencies which recommended her to all that had the Happineſs to know her. But the greateſt glory that ſhined in her, was in <hi>Religion,</hi> in which ſhe was not only ſincere, but <hi>excelled.</hi>
+            </p>
+            <p>To which general Head may be referred the following things,
+<pb n="47" facs="tcp:96692:27"/>as the diſtinct Flowers in that <hi>Crown</hi> of Righteouſneſs.</p>
+            <p>She devoted her ſelf to God and Religion very early, riſing in the Morning of her Age, to at<g ref="char:EOLhyphen"/>tend the Work and Service of her great <hi>Lord, Remembring her Creator in the days of her Youth: She made haſte, and delayed not to keep his Com<g ref="char:EOLhyphen"/>mandments.</hi> And this ſhe purſued with great ſteadineſs through the courſe of a long Life: So that ſhe was not only an Aged Perſon, but (which is a great Honour in the Church of God) an <hi>Old Diſci<g ref="char:EOLhyphen"/>ple.</hi>
+            </p>
+            <p>And having begun thus early to apply her ſelf to Religion in the Power and Strictneſs of it: Parts and Induſtry, and length of Time, and the uſe of excellent Books, and Converſe with <hi>Learn<g ref="char:EOLhyphen"/>ed</hi>
+               <pb n="48" facs="tcp:96692:28"/>Men uniting together, rendred her one of the moſt knowing Perſons of her Sex, eſpecially in Divinity, and in the Scriptures, which made her wiſe unto Salva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And this Knowledg was not confined to the <hi>Practical,</hi> but ex<g ref="char:EOLhyphen"/>tended alſo to the <hi>Controverſal,</hi> and <hi>Critical</hi> Part, even to the Difficul<g ref="char:EOLhyphen"/>ties concerning Scripture-Chro<g ref="char:EOLhyphen"/>nology, and the Solutions of ma<g ref="char:EOLhyphen"/>ny of them.</p>
+            <p>She was able to diſcourſe per<g ref="char:EOLhyphen"/>tinently upon any of the great Heads of <hi>Theology.</hi> She could oppoſe an Atheiſt by Arguments drawn from the Topicks in Natu<g ref="char:EOLhyphen"/>ral Theology, and anſwer the Arguments of <hi>Papiſts, Socinians, Pelagians,</hi> &amp;c. by the Furniture againſt them in the Holy Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            <p>
+               <pb n="49" facs="tcp:96692:28"/>
+I never knew any other Perſon that had ſo great a Knowledg in Divinity, who was not skill'd in the Learned Languages; ſo that, no Scholar could repent the time ſpent in Converſe with her: For ſhe could bear ſuch a part in Diſ<g ref="char:EOLhyphen"/>courſes of Divinity, whether <hi>Di<g ref="char:EOLhyphen"/>dactical, Polemical, Caſuiſtical,</hi> or <hi>Textual,</hi> that ſome of her <hi>Chap<g ref="char:EOLhyphen"/>lains</hi> have profeſſed, they have been ſometimes more, profitable and pleaſant than their own Studies, and that they themſelves did learn, as well as teach.</p>
+            <p>This perhaps may ſeem incre<g ref="char:EOLhyphen"/>dible to them that were not ac<g ref="char:EOLhyphen"/>quainted with her. But ſome<g ref="char:EOLhyphen"/>thing of the Wonder will be a<g ref="char:EOLhyphen"/>bated, by ſhewing how ſhe at<g ref="char:EOLhyphen"/>tained her Excellent Knowledg.</p>
+            <p>She was an Indefatigable Rea<g ref="char:EOLhyphen"/>der of Books, of the Scriptures
+<pb n="50" facs="tcp:96692:29"/>eſpecially, and various Commen<g ref="char:EOLhyphen"/>tators upon them, the beſt that our Language affords, which per<g ref="char:EOLhyphen"/>haps are not exceeded by any other. She had turned over a Multitude, not only of Practical Treatiſes, but alſo of Learned Books, and amongſt many others, ſome of thoſe of the Antient <hi>Phi<g ref="char:EOLhyphen"/>loſophers,</hi> tranſlated into Engliſh, gathering much from thoſe great <hi>Lights</hi> among the Heathens, ſo that ſhe could interpoſe wiſely in a Diſcourſe purely Philoſophical.</p>
+            <p>She was alſo a moſt diligent Inquirer, and made uſe of all <hi>Learned</hi> Men of her Acquain<g ref="char:EOLhyphen"/>tance to increaſe her Knowledg, by moving Queſtions concerning the moſt material things, as Caſes of Conſcience, and hard Texts of Scripture, and the Accompliſh<g ref="char:EOLhyphen"/>ment of the Divine Prophecies.</p>
+            <p>
+               <pb n="51" facs="tcp:96692:29"/>
+She generally alſo took Notes out of the many Books ſhe read, that ſhe might with the leſs La<g ref="char:EOLhyphen"/>bour recover the Notions again, without reading them a ſecond time.</p>
+            <p>And She uſed a mighty Indu<g ref="char:EOLhyphen"/>ſtry to preſerve what either in<g ref="char:EOLhyphen"/>ſtructed her Mind, or affected her Heart in the <hi>Sermons</hi> ſhe had heard: To theſe ſhe gave great Attention in the <hi>Aſſembly,</hi> and heard them repeated in her <hi>Family.</hi> After this ſhe would diſcourſe of them in the Evening: And in the following Weeks, ſhe had them again repeated, and diſcourſed the matter of them to ſome of her <hi>Family</hi> in her Chamber. And beſides all this, ſhe wrote the Sub<g ref="char:EOLhyphen"/>ſtance of them, and then digeſted many of them into Queſtions and Anſwers, or under Heads of
+<pb n="52" facs="tcp:96692:30"/>common Places; and then they became to her Matter for repeated Meditation. And by theſe Me<g ref="char:EOLhyphen"/>thods ſhe was always increaſing her Knowledg, or confirming the things that were known.</p>
+            <p>And having a great Treaſure of Knowledg, ſhe improved it (through <hi>Divine Aſſiſtance,</hi> which ſhe was moſt ready to acknowledg) into a ſuitable Practice, <hi>working out her Salvation with Fear and Trem<g ref="char:EOLhyphen"/>bling, and was zealous of good Works.</hi>
+            </p>
+            <p>Her Piety was exact, putting Rules upon her ſelf in all things; and univerſal, having reſpect to all God's Commands, equally regarding the two Tables of the Law. It was alſo conſtant, and affectionate; her whole Heart was given up to it, and a holy Zeal attended it, which Zeal was guided by much Wiſdom
+<pb n="53" facs="tcp:96692:30"/>and Prudence, the Prudence ne<g ref="char:EOLhyphen"/>ver degenerating into Craft, no<g ref="char:EOLhyphen"/>thing appearing in all her Con<g ref="char:EOLhyphen"/>verſe contrary to Sincerity.</p>
+            <p>It was alſo ſerious, ſolid, and ſubſtantial, not touched with <hi>En<g ref="char:EOLhyphen"/>thuſiaſm;</hi> yet ſhe had a great re<g ref="char:EOLhyphen"/>gard to the <hi>Spirit</hi> of God, as ſpeaking in the Scriptures, and by them guiding the Underſtanding, and operating upon the Heart.</p>
+            <p>And as her own Practice was holy, ſo ſhe endeavoured alſo that her Family might walk in the ſame Steps, providing for them the daily help of Prayer Morning and Evening, with the reading of the Scriptures; and on the Lord's-day the Repetition of what was preached in the Publick <hi>Con<g ref="char:EOLhyphen"/>gregation.</hi> And for their further Benefit, ſhe many Years toge<g ref="char:EOLhyphen"/>ther procured a Grave <hi>Divine</hi> to
+<pb n="54" facs="tcp:96692:31"/>perform the Office of a <hi>Catechiſt</hi> in her Houſe, who came con<g ref="char:EOLhyphen"/>ſtantly every Fortnight, and ex<g ref="char:EOLhyphen"/>pounded methodically the Prin<g ref="char:EOLhyphen"/>ciples of Religion, and exami<g ref="char:EOLhyphen"/>ned the <hi>Servants,</hi> which was for<g ref="char:EOLhyphen"/>merly done by her <hi>Chaplains,</hi> till the Service of God in her <hi>Family,</hi> and the Care of the <hi>Pa<g ref="char:EOLhyphen"/>riſh</hi> were committed to the ſame Perſon. Thus, with <hi>Joſhua,</hi> ſhe reſolved that <hi>She and her Houſe ſhould ſerve the Lord.</hi>
+            </p>
+            <p>With her Piety and Godlineſs, there was joyned much Chriſtian Love, which was univerſal, ex<g ref="char:EOLhyphen"/>tending to all Mankind, never ſuffering her ſelf to hate or de<g ref="char:EOLhyphen"/>ſpiſe (or over-look, unleſs in the way of Cenſure for a Crime) any Perſon in the World, abhor<g ref="char:EOLhyphen"/>ring only what was vicious and e<g ref="char:EOLhyphen"/>vil in them.</p>
+            <p>
+               <pb n="55" facs="tcp:96692:31"/>
+But this Univerſal Charity ad<g ref="char:EOLhyphen"/>mitted a Difference, ſo as that the more Chriſtian and Holy any were, the more They had of Her Regard. That Image of God that ſhined in a good Converſa<g ref="char:EOLhyphen"/>tion, ſhe could not overlook in any, though in ſome reſpects they were leſs acceptable to her, valuing Grace above all the Ac<g ref="char:EOLhyphen"/>compliſhments of Parts, Breed<g ref="char:EOLhyphen"/>ing, and Accord in leſſer things.</p>
+            <p>And beſides that, all were dear to her, in whom appeared the Fear of God; ſhe had alſo a moſt peculiar value for his <hi>Am<g ref="char:EOLhyphen"/>baſſadours</hi> and Miniſters, the Guides of Souls, receiving them in their <hi>Miniſtrations,</hi> as Angels of God, <hi>fearing the Lord, and obeying the Voice of his Servants, eſteeming</hi> what they delivered, in conſent with the holy Scriptures,
+<pb n="56" facs="tcp:96692:32"/>as his Meſſage and Word.</p>
+            <p>She was very exact in matters of Juſtice, and in <hi>rendring to all their Dues, not ſuffering any Blot to cleave to her Hand;</hi> and could not endure to have any thing without a Title in Conſcience, as well as in Law; and was particularly tender in reference to <hi>Tithes,</hi> and gave away all that ſhe held by that<note n="*" place="margin">The Im<g ref="char:EOLhyphen"/>propriati<g ref="char:EOLhyphen"/>ons of <hi>Blithburgh</hi> and <hi>Wal<g ref="char:EOLhyphen"/>derſwick</hi> in <hi>Suſſex,</hi>
+               </note> Title, to him that took the Care of the Souls, reſerving only a little Portion yearly, for repairing the<note n="‖" place="margin">The two great Chancels of the Churches there.</note> Edifices.</p>
+            <p>Her Charity and Alms-giving was very great, and much ad<g ref="char:EOLhyphen"/>mired by all that obſerved it, though they knew only ſome part of it; Every one that needed it, had it in proportion to their Ne<g ref="char:EOLhyphen"/>ceſſities, and in the kind that was moſt ſuitable to their particular Wants. She eſteemed her ſelf but
+<pb n="57" facs="tcp:96692:32"/>as a <hi>Steward</hi> of her Eſtate, and therefore gave away a great part of it to encourage the Miniſtry, and to relieve the Indigent. <hi>She diſperſed abroad and gave to the Poor, and Her Righteouſneſs remains for ever. She did most frequently caſt her Bread upon the Waters, and gave a Portion to ſeven, and to eight, and lent much to the Lord.</hi> And this ſhe did willingly and chearfully, and was ready to theſe good Works; ſo that when there was any occaſion that ſolicited her Charity, it was never any Que<g ref="char:EOLhyphen"/>ſtion with her, whether ſhe ſhould give, or not give, but on<g ref="char:EOLhyphen"/>ly in what Proportion ſhe ſhould extend her Bounty. And for that ſhe would many times moſt frankly refer her ſelf to others; ſaying, <hi>I will give what ever you think is fit and meet in this Caſe,</hi>
+               <pb n="58" facs="tcp:96692:33"/>having in this reſpect an Heart <hi>as large as the Sand on the Sea-ſhore,</hi> and a moſt open Hand.</p>
+            <p>And as the Poor had her Cha<g ref="char:EOLhyphen"/>rity in abundance, ſo her <hi>Friends,</hi> who needed not that kind of Bounty, were yet Witneſſes of her great Liberality and Genero<g ref="char:EOLhyphen"/>ſity, by which ſhe adorned Re<g ref="char:EOLhyphen"/>ligion, and gained many to ſpeak well of it.</p>
+            <p>Her Generoſity was ſuch, That one would have imagined there was no room for Alms; and her Charity ſuch, that it was won<g ref="char:EOLhyphen"/>dered how ſhe could ſo plentiful<g ref="char:EOLhyphen"/>ly entertain her <hi>Friends.</hi> But a provident Frugality and Manage<g ref="char:EOLhyphen"/>ment, with the Divine Bleſſing, enabled her to both to Admira<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And her Charity was not only extended to the Bodies of others,
+<pb n="59" facs="tcp:96692:33"/>but ſhe alſo moſt readily afforded Counſel and Comfort to them that repaired to her for Aſſiſtance in the Concerns of their Souls, though of meaner Rank and Condition in the World. To ſuch ſhe would ſpeak wiſely, hear them patiently, and treat them compaſſionately when un<g ref="char:EOLhyphen"/>der Temptations, and Diſquiet of Mind. One of her own <hi>Ser<g ref="char:EOLhyphen"/>vants</hi> coming to her Cloſet upon this account, and beginning to open to her the Grief of her Heart; <hi>She required her for that time, to forget ſhe was a Servant, and diſ<g ref="char:EOLhyphen"/>courſing with her with great Tender<g ref="char:EOLhyphen"/>neſs and Prudence in reference to her Temptations, diſmiſſed her comforted, and much revived.</hi> And very ma<g ref="char:EOLhyphen"/>ny others ſhe received with the greateſt Freedom, miniſtring ſpi<g ref="char:EOLhyphen"/>ritual Comfort to them. That
+<pb n="60" facs="tcp:96692:34"/>part of Religion which is peculi<g ref="char:EOLhyphen"/>arly ſtiled <hi>Devotion,</hi> was the Joy of her Life, and the Delight of her Soul. A very conſiderable Portion of her Time was daily employed in Prayer, ſearching the Scriptures, and in holy Medi<g ref="char:EOLhyphen"/>tations. Theſe things were her proper <hi>Element,</hi> and in them, ſhe would often profeſs, ſhe found her greateſt Refreſhments; in theſe ſhe converſed with God, and was then leaſt alone when moſt alone. For ſhe did not meerly perform theſe Duties, nor generally engage in them as a Task, but obſerved the frame of her Spirit in them, and <hi>commanded the Affections of her Soul to wait upon God, not being ſatisfied without ſome Emotions of Mind ſuitable to theſe holy Exerciſes, as ſhe hath often profeſſed, and which I gathered from her com<g ref="char:EOLhyphen"/>plaining
+<pb n="61" facs="tcp:96692:34"/>ſometimes of her Infirmities, and of the Difficulty of Praying a<g ref="char:EOLhyphen"/>right, and of preſerving throughout that Duty a due Sence of God.</hi>
+            </p>
+            <p>The Chriſtian <hi>Sabbath</hi> was alſo her Delight, and a Day in God's <hi>Courts</hi> better to her than a thou<g ref="char:EOLhyphen"/>ſand elſewhere; and her Enjoy<g ref="char:EOLhyphen"/>ment of God in the Publick Or<g ref="char:EOLhyphen"/>dinances, and Services of that Day, was to her as a little Heaven upon Earth. And the Impreſſi<g ref="char:EOLhyphen"/>ons ſhe received by attending thoſe holy Inſtitutions were ſuch, as that ſhe long'd in the Week, for the return of the <hi>Sabbath.</hi> And great was her Affliction when her Hearing was ſo impaired that ſhe could not attend the <hi>Publick</hi> Wor<g ref="char:EOLhyphen"/>ſhip of God, though few were better furniſhed to ſupply that Want by private Exerciſes, and Cloſet-<hi>Devotions.</hi>
+            </p>
+            <p>
+               <pb n="62" facs="tcp:96692:35"/>
+And having ſo eminently prized and improved the Lord's-Days, it pleaſed God on the Evening of one of them to take her to him<g ref="char:EOLhyphen"/>ſelf, there to keep an Everlaſting <hi>Sabbath,</hi> in his moſt immediate and glorious Preſence, in the Arms of Chriſt, the Beloved of her Soul, and in the Aſſembly of <hi>Angels, Pa<g ref="char:EOLhyphen"/>triarchs, Prophets, Apoſtles, Martyrs,</hi> and all departed <hi>Saints.</hi>
+            </p>
+            <p>And (which deſerves Admira<g ref="char:EOLhyphen"/>tion) in the midſt of all theſe At<g ref="char:EOLhyphen"/>tainments, Vertues and Graces, ſhe was greatly humble, and clothed with the Ornament of a Lowly Spirit; and while many admired the Example ſhe gave in the World, She apprehended that others excelled her in Grace and Godlineſs, <hi>and continually reckoned her ſelf among the leaſt of Saints.</hi> For notwithstanding her Quality
+<pb n="63" facs="tcp:96692:35"/>in the World, her exquiſite Know<g ref="char:EOLhyphen"/>ledge, eminent Grace, and the mighty Value her <hi>Friends</hi> had juſt<g ref="char:EOLhyphen"/>ly for her; I could never obſerve (in the whole Courſe of eigh<g ref="char:EOLhyphen"/>teen Years Converſe) the leaſt Indication of vain Glory, or ſelf-Admiration in her.</p>
+            <p>And her Humility was of an <hi>excellent</hi> kind, the Fruit of great Knowledg, proceeding alſo from a deep Senſe of the Fall, the Cor<g ref="char:EOLhyphen"/>ruption of Man's Nature, the Imperfection of Mortification in this preſent State, and the Re<g ref="char:EOLhyphen"/>mains of Sin in them that are ſanctified; and was nouriſhed by a great Sight of God, and Ac<g ref="char:EOLhyphen"/>quaintance with him, and fre<g ref="char:EOLhyphen"/>quent Self-Examinations, and by obſerving how Sin mingles it ſelf in our beſt Actions, and moſt holy Duties; and by a diligent
+<pb n="64" facs="tcp:96692:36"/>comparing her Self, and her Acti<g ref="char:EOLhyphen"/>ons, with the exact Rules of the Scriptures.</p>
+            <p>Which Grace of Chriſtian <hi>Hu<g ref="char:EOLhyphen"/>mility</hi> was the more illuſtrious in her, by the Acceſſion of the Ver<g ref="char:EOLhyphen"/>tue of <hi>Courteſy,</hi> which ſhe had in a high degree, entertaining all Perſons with Civilities proper to their ſeveral <hi>Qualities;</hi> ſo that ſhe obliged all, though ſhe was ever<g ref="char:EOLhyphen"/>more careful that nothing in <hi>Con<g ref="char:EOLhyphen"/>verſation</hi> might border upon thoſe Freedoms that diſhonour God, and blemiſh the <hi>Chriſtian</hi> Profeſſi<g ref="char:EOLhyphen"/>on; by this means adorning the <hi>Goſpel,</hi> and ſhewing that Religi<g ref="char:EOLhyphen"/>on, though it requires great Strict<g ref="char:EOLhyphen"/>neſs, yet it doth not neceſſarily introduce either Melancholly, or Moroſeneſs. And (which is a much greater thing than to be courteous in the higheſt degree)
+<pb n="65" facs="tcp:96692:36"/>as a real Diſciple of Chriſt, ſhe had learned to deny her ſelf, and could abridge her own Right, that ſhe might thereby promote the Glory of God, benefit others, a<g ref="char:EOLhyphen"/>void Offence, and maintain Love and Peace.</p>
+            <p>And which may properly be ſubjoyned to her Self-denial, as a Grace equal to it, ſhe induſtri<g ref="char:EOLhyphen"/>ouſly avoided <hi>Cenſoriouſneſs,</hi> (diſ<g ref="char:EOLhyphen"/>liking it in others) and endea<g ref="char:EOLhyphen"/>voured to make the beſt Interpre<g ref="char:EOLhyphen"/>tation of both Words and Actions, not lightly ſpeaking Evil of any, nor readily receiving an evil Re<g ref="char:EOLhyphen"/>port. And above all things ſhe abhorred to be Cenſorious in re<g ref="char:EOLhyphen"/>ference to <hi>Preachers,</hi> and <hi>Sermons,</hi> of which ſhe was a moſt candid and equal Hearer, <hi>Judicious,</hi> and <hi>Critical</hi> enough, but not <hi>Captious</hi> in the leaſt. If but Truth were
+<pb n="66" facs="tcp:96692:37"/>ſpoken, and Piety urged in any ordinary method, ſhe was ſatisfied, ſo as not to find fault. But the <hi>Sermons</hi> which ſhe preferred, were either Diſcourſes greatly Ration<g ref="char:EOLhyphen"/>al, or ſuch as did particularly il<g ref="char:EOLhyphen"/>luſtrate the ſenſe of the Scrip<g ref="char:EOLhyphen"/>tures, or diſcover the Excellency of the Goſpel; or ſuch as diſ<g ref="char:EOLhyphen"/>played Chriſt in his Perſon, Un<g ref="char:EOLhyphen"/>dertaking, and Offices; or ſuch as diſcovered the difference between the <hi>Real</hi> and <hi>Almoſt Chriſtian;</hi> and ſuch as did moſt nearly approach the <hi>Conſcience,</hi> and urge the Ex<g ref="char:EOLhyphen"/>acted <hi>Converſation,</hi> and the go<g ref="char:EOLhyphen"/>verning the Heart, Thoughts, and inward Affections.</p>
+            <p>In all her <hi>Relations</hi> ſhe demean<g ref="char:EOLhyphen"/>ed her ſelf as a Chriſtian. She was a faithful, dutiful, loving and prudent Wife; And the Heart of her <hi>Husband</hi> ſafely truſted in her.
+<pb n="67" facs="tcp:96692:37"/>She was a moſt affectionate, ten<g ref="char:EOLhyphen"/>der Wife, and watchful Mother, reſtraining her Children from E<g ref="char:EOLhyphen"/>vil, according to her power, and bringing them up in the Nurture and Admonition of the Lord, moſt conſtantly endeavouring to inftil into their Minds the Princi<g ref="char:EOLhyphen"/>ples of Juſtice, Holineſs, and Cha<g ref="char:EOLhyphen"/>rity. To them that became her <hi>Children</hi> by marrying into her <hi>Fa<g ref="char:EOLhyphen"/>mily,</hi> ſhe was moſt kinde, and treated them as her own. To her <hi>Servants</hi> and <hi>Tenants</hi> ſhe was juſt and kind; and to her <hi>Neighbours,</hi> all that they could deſire.</p>
+            <p>To her particular <hi>Friends,</hi> ſhe was endeared by her Prudence, Fidelity, and almoſt Exceſſes of Love, and improving of Friend<g ref="char:EOLhyphen"/>ſhip to ſerve the great Ends of Religion, which are the honour<g ref="char:EOLhyphen"/>ing of God, and the bettering one
+<pb n="68" facs="tcp:96692:38"/>another. She was alſo a Loyal <hi>Subject</hi> to her <hi>Prince,</hi> of which there is full Evidence in this fol<g ref="char:EOLhyphen"/>lowing Relation, which was communicated to me by one of her intimate <hi>Friends.</hi>
+            </p>
+            <p>When his late <hi>Majeſty</hi> was in his Enemies Hands, and they were preparing for the horrid Murther of that Excellent <hi>Prince,</hi> ſhe was moſt paſſionately concerned, and being very earneſtly deſirous that an Hand from Heaven might have prevented that Wickedneſs, kept a private Faſt in her Cloſet on his behalf. And when ſhe knew that God, in juſt Judgment to the <hi>Nation,</hi> had permitted Men to take away his precious Life; ſhe reſented it with the Paſſions of a <hi>Mother, profeſſing that the loſs of one of her deareſt Children came not nearer to her Heart.</hi> And in a
+<pb n="69" facs="tcp:96692:38"/>Letter to that <hi>Friend,</hi> ſhe thus be<g ref="char:EOLhyphen"/>wailed it.</p>
+            <p>
+               <q>
+                  <hi>O that you were with us, though but for a few days, that we might bemoan our ſelves together, and this miſerable Nation; upon which God poureth out ſo great Wrath, and yet ſuch Spiritual Judgments are ſeized upon us! That many of us who pretend the greateſt Intereſt in Him, can ſee nothing but Mercies and glorious Times: I find nothing ſo much moves me, as to hear Men, whom I hope I may call pious, ſpeak concerning the Times; my Patience is ſo much put to it, as Rules of Wiſdom and Policy can find no place with me. I can truly ſay, I diſſent from many, whom I would honour, and whoſe Judgments I do in many things, prefer before my own, with<g ref="char:EOLhyphen"/>out any kind of Doubt, or Reluctan<g ref="char:EOLhyphen"/>cy,
+<pb n="70" facs="tcp:96692:39"/>admiring, and ſtanding amazed at their Deluſions. I am now taught the great Danger of Evil Princi<g ref="char:EOLhyphen"/>ples, ſtrong Engagements, Spriritual Pride,</hi> &amp;c.</q>
+            </p>
+            <p>In reference to His preſent <hi>Majeſty,</hi> her Loyalty proceeded by theſe ſteps: She was a true Mourner under his Sufferings, Excluſion, Exile, and the Diſ<g ref="char:EOLhyphen"/>appointment of ſeveral Efforts that were made for his Reſtituti<g ref="char:EOLhyphen"/>on. And ſhe ſo diſguſted the <hi>then uſurping</hi> Powers, that ſhe would not joyn in the keeping of either the Fairing or Thanksgiving Days appointed by them in reference to their Deſigns, or Succeſſes. She rejoyced in all his Deliverances and eſpecially in his Miraculous and Happy <hi>Reſtauration.</hi> And I do verily believe there was no
+<pb n="71" facs="tcp:96692:39"/>Perſon in the three <hi>Kingdoms,</hi> that better underſtood than ſhe did the Dignity of the High Station, to which God reſtored Him, or that paid Him a greater Veneration, or prayed more heartily for Him, or was more ſollicitous for His Safety, in His <hi>Perſon</hi> and Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>She was alſo conformable to the preſent <hi>Eſtabliſhment,</hi> in all things in which her Obedience was required, and her Practice concern'd; ſo that in reference to the <hi>Church</hi> of <hi>England,</hi> ſhe was truly Ours, and one of the greateſt <hi>Ornaments</hi> of our <hi>Commu<g ref="char:EOLhyphen"/>nion.</hi>
+            </p>
+            <p>The <hi>Separation</hi> (though ſhe re<g ref="char:EOLhyphen"/>ſpected Piety in all forts of Men) was grievous to her, and ſhe thought it unreaſonable: And this was her Judgment from the
+<pb n="72" facs="tcp:96692:40"/>beginning, in which ſhe was en<g ref="char:EOLhyphen"/>couraged in her early Years, by the <hi>Divines</hi> of her Acquaintance, (ſome of them <hi>Nonconformiſts</hi>) who (when thoſe of the (then) <hi>Separation,</hi> attempted to inſinu<g ref="char:EOLhyphen"/>ate their Principles into her) ad<g ref="char:EOLhyphen"/>viſed her to neglect them, and to attend the great and ſubſtantial things of Religion, as Faith, God<g ref="char:EOLhyphen"/>lineſs, Juſtice, and Charity.</p>
+            <p>But withal, ſuch was her Moderation, that ſhe earneſtly deſired the Succeſs of the <hi>Com<g ref="char:EOLhyphen"/>prehenſion,</hi> deſigned by the Lord-Keeper <hi>Bridgman,</hi> Sir <hi>Matthew Hale,</hi> then <hi>Lord Chief Baron,</hi> and Dr. <hi>Wilkins,</hi> &amp;c. And as that worthy <hi>Judg,</hi> ſo <hi>She,</hi> relieved ma<g ref="char:EOLhyphen"/>ny ſober <hi>Non-conformiſts</hi> with great Bounty, and moſt eaneſtly deſired to have ſeen them <hi>legally</hi> ſettled in a <hi>Publick</hi> Miniſtry.</p>
+            <p>
+               <pb n="73" facs="tcp:96692:40"/>
+Many things more might be added to this Account of her At<g ref="char:EOLhyphen"/>tainments, Graces, and Vertues, but all may be ſumm'd up in this ſhorter Character.</p>
+            <p>She had the Knowledg of a <hi>Divine,</hi> the Faith, Holineſs, and Zeal of a <hi>Chriſtian,</hi> the Wiſdom of the <hi>Serpent,</hi> and the Innocence of the <hi>Dove;</hi> She had Godlineſs in the Power of it, and adorn'd it. She was ſerious, but not melan<g ref="char:EOLhyphen"/>cholly, and chearful without any Tincture of Vanity; very holy, and no leſs humble, and thankful to God for all His Mer<g ref="char:EOLhyphen"/>cies, and had a mighty Senſe of her need of Chriſt the <hi>Mediator,</hi> depending entirely upon His Me<g ref="char:EOLhyphen"/>rits and Satisfaction, renouncing all her own Works in the point of Juſtification.</p>
+            <p>By theſe things ſhe attain'd a
+<pb n="74" facs="tcp:96692:41"/>good, and (which ſhe never ſought) a great Name.</p>
+            <p>Dr. <hi>Sibs,</hi> an Eminent <hi>Divine,</hi> Maſter of K. <hi>Hall Cambridg,</hi> and Preacher to the Honourable So<g ref="char:EOLhyphen"/>ciety of <hi>Grayes-Inn,</hi> who frequen<g ref="char:EOLhyphen"/>ted her Houſe at <hi>Langley in</hi> Hart<g ref="char:EOLhyphen"/>fordſhire, <hi>would ſay, that he went to other places (mostly) to ſatisfy others, but thither to pleaſe himſelf.</hi>
+            </p>
+            <p>Dr. <hi>Edw. Reynolds,</hi> late Lord Biſhop of <hi>Norwich,</hi> having been nobly entertained at her Houſe, profeſſed afterward, that the beſt of his Entertainment was his Converſe with ſo <hi>Excellent</hi> a Per<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>Another (now a <hi>Dignitary</hi> of the <hi>Church</hi> of <hi>England</hi>) returned from a Viſit made to her, and ſaid <hi>the half was not told him.</hi>
+            </p>
+            <p>Another, a Perſon of Quali<g ref="char:EOLhyphen"/>ty, and great Learning, who lo<g ref="char:EOLhyphen"/>ved
+<pb n="75" facs="tcp:96692:41"/>to ſpeak much in few Words, having obſerved her Gravity, Ho<g ref="char:EOLhyphen"/>lineſs, Prudence, and Freedom from all that is little, humourous, or moroſe, ſaid, ſhe was a <hi>Wo<g ref="char:EOLhyphen"/>man</hi> of a <hi>Generous Piety.</hi>
+            </p>
+            <p>Another ſaith of her, That ſhe had a Greatneſs of Mind, rare Knowledg, a becoming Gravi<g ref="char:EOLhyphen"/>ty, and great Sincerity: That ſhe was highly devout, a chear<g ref="char:EOLhyphen"/>ful Giver, patient under the Croſs, and endued with all the Vertues and Graces of thoſe excellent Women, whoſe Praiſe is in the Scriptures, for Obedience to their Husbands, Religious Care of their Children, Bounty to God's Miniſters, Hoſpitality to their Friends, Charity to the Poor, and Piety towards God. But the La<g ref="char:EOLhyphen"/>tine is more elegant, which came thus from his Ingenious Pen.</p>
+            <p>
+               <pb n="76" facs="tcp:96692:42"/>
+               <hi>Ingenio maſcula, Mente Theologa, Ore Gravis, Corde Sancta, Cultu In<g ref="char:EOLhyphen"/>tenſfa, Charitate Laeta, Crucis Pati<g ref="char:EOLhyphen"/>ens, tota Moribus Generoſa; Marito</hi> Sara, <hi>Liberis</hi> Unice, <hi>Nepotibus</hi> Lo<g ref="char:EOLhyphen"/>is, <hi>Miniſtris</hi> Lydia, <hi>Hoſpitibus</hi> Mar<g ref="char:EOLhyphen"/>tha, <hi>pauperibus</hi> Dorcas, Anna <hi>Deo.</hi>
+            </p>
+            <p>Such were her Qualifications, great and eminent, and ſo were the Providences of God towards her; for ſhe had great <hi>Proſperities,</hi> and interchangeably great <hi>Afflicti<g ref="char:EOLhyphen"/>ons.</hi> The firſt ſhe entertain'd humbly, and the other patient<g ref="char:EOLhyphen"/>ly.</p>
+            <p>To her <hi>Proſperities</hi> may be referred, The great Kindneſs of her <hi>Husband,</hi> with a numerous <hi>Family,</hi> and a very plentiful Eſtate during his Life, and a competent Revenue afterwards in her Wi<g ref="char:EOLhyphen"/>dowhood;
+<pb n="77" facs="tcp:96692:42"/>a fine <hi>Temperature</hi> of Body, ſo that ſhe was ſeldom ſick, though never ſtrong; the Conti<g ref="char:EOLhyphen"/>nuance of her Parts, and the Vi<g ref="char:EOLhyphen"/>gor of her <hi>Intellectuals,</hi> and Firm<g ref="char:EOLhyphen"/>neſs of her Judgment, even in the laſt Years of her Life; the <hi>Re<g ref="char:EOLhyphen"/>ſpects</hi> and <hi>Civilites</hi> ſhe received from the Gentry in her Neigh<g ref="char:EOLhyphen"/>bourhood; the Bleſſing of long Life, the concluding of ſome un<g ref="char:EOLhyphen"/>kind Law-ſuits, (which as ſhe did not begin, ſo ſhe could not prevent) and the ſeeing every remaining <hi>Branch</hi> of her <hi>Family</hi> largely provided for, and in a ve<g ref="char:EOLhyphen"/>ry good Condition, before her Death. And, which was more than all theſe, as the beſt of her <hi>Pro<g ref="char:EOLhyphen"/>ſperities,</hi> ſhe enjoyed much in<g ref="char:EOLhyphen"/>ward Peace, which, though it had ſometimes Mixtures of Doubts and Fears, was generally firm and
+<pb n="78" facs="tcp:96692:43"/>ſteady, and ſometimes advanced into Joys and great Conſolati<g ref="char:EOLhyphen"/>on.</p>
+            <p>Her Afflictions were chiefly Wi<g ref="char:EOLhyphen"/>dowhood, and loſs of Children. The ſharpeſt of all her <hi>Trials</hi> was the untimely Death of her laſt <hi>Son,</hi> with the aggravating Cir<g ref="char:EOLhyphen"/>cumſtances of it, being drown'd, this was very ſurprizing, invaded her like an <hi>Inundation</hi> of Waters, threatning all the Banks both of <hi>Reaſon</hi> and <hi>Grace:</hi> Her <hi>Friends</hi> feared ſhe would not long ſur<g ref="char:EOLhyphen"/>vive it. But the Power and Preſence of God ſupported her, and ſhe not only lived many Years after it, but alſo recovered again in a great meaſure her for<g ref="char:EOLhyphen"/>mer Chearfulneſs.</p>
+            <p>Her Demeanour under this ſad Providence, was Chriſtian. She did not murmur, though at
+<pb n="79" facs="tcp:96692:43"/>firſt aſtoniſhed, and after that, much depreſt by it. Her Dan<g ref="char:EOLhyphen"/>ger was, of fainting under this correcting Hand of God, but ſhe was upheld by him that is <hi>able to ſuccour them that are temp<g ref="char:EOLhyphen"/>ted.</hi>
+            </p>
+            <p>
+               <hi>She often expreſt her ſelf in Words importing that ſhe juſtified God, and acknowledg'd his Righteouſneſs in it. She feared leſt ſome might be ſcanda<g ref="char:EOLhyphen"/>lized by it, and reflect upon Religion, and decline it, becauſe of her deep Af<g ref="char:EOLhyphen"/>fliction, and most earneſtly deſired that God would take care of his own Name, and Glory. But afterwards her Spi<g ref="char:EOLhyphen"/>rit revived, and ſhe was comforted as before,</hi> and rejoiced in the God of her Salvation.</p>
+            <p>The Cloſe of her Life was a long <hi>Languiſhing</hi> of divers Months, which gradually confined her,
+<pb n="80" facs="tcp:96692:44"/>firſt to her <hi>Chamber,</hi> then to her <hi>Couch,</hi> and laſtly to her <hi>Bed;</hi> at<g ref="char:EOLhyphen"/>tended ſometimes with great Pains, under which Patience had its perfect Work. During this Sickneſs, her Mind was calm, <hi>Her Conſcience witneſſed to her Integrity, and ſhe had a good hope in God, that he would crown his Grace in her with Perſeverance, and then with Glory.</hi> She was very apprehenſive of her need of Chriſt, adhered to him, rejoyced in him, <hi>and deſired to be with Him.</hi> She expired almoſt <hi>inſenſibly,</hi> and had at the laſt, an eaſy Paſſage to the <hi>Happineſs,</hi> which is the Reward of Faith and Holineſs, and the <hi>free Gift of God through Jeſus Chriſt our Lord.</hi>
+            </p>
+            <p>She hath left behind her (which are <hi>Evidences</hi> of an unuſual <hi>Dili<g ref="char:EOLhyphen"/>gence,</hi> and an admirable <hi>Induſtry</hi>)
+<pb n="81" facs="tcp:96692:44"/>a great number of <hi>Writings</hi> under her own Hand, ſome of which are theſe.</p>
+            <p>A conſiderable Body of <hi>Divi<g ref="char:EOLhyphen"/>nity,</hi> in a large <hi>Quarto,</hi> ſhewing what a <hi>Chriſtian</hi> muſt believe, and practice, written <hi>Anno Dom.</hi> 1631.</p>
+            <p>Collections of Commentaries upon a great part of the Holy Scriptures, and of the Sum of the Controverſies between Us and the Papiſts.</p>
+            <p>A Book containing <hi>Obſervations, Experiences,</hi> and <hi>Rules</hi> for Practice, which being a moſt lively <hi>Image</hi> of her Mind, may ſupply all the Defects of the <hi>Narrative</hi> I have given of her, and is ſubjoyned here, in hope it may be of no little Benefit to all pious Readers.</p>
+         </div>
+         <div type="appendix">
+            <pb facs="tcp:96692:45"/>
+            <pb n="83" facs="tcp:96692:45"/>
+            <head>AN APPENDIX, Containing Some conſiderable OBSER<g ref="char:EOLhyphen"/>VATIONS, EXPERI<g ref="char:EOLhyphen"/>ENCES, and RULES for Practice: found written with her <hi>Ladiſhip</hi>'s own <hi>Hand.</hi>
+            </head>
+            <div n="1" type="observation">
+               <head>
+                  <hi>I.</hi> The World's Vanity.</head>
+               <p>ALL my Comforts below are dying Comforts; no one Creature (not all the Creatures) that ever I en<g ref="char:EOLhyphen"/>joyed,
+<pb n="84" facs="tcp:96692:46"/>have given my Soul Satis<g ref="char:EOLhyphen"/>faction.</p>
+            </div>
+            <div n="2" type="observation">
+               <head>
+                  <hi>II.</hi> Good Actions will bear Conſidera<g ref="char:EOLhyphen"/>tion; but evil Actions will not.</head>
+               <p>Every Act of Piety and Obe<g ref="char:EOLhyphen"/>dience will bear Conſideration, but ſo will not any ſinful Action. If we conſider before we attempt any ſinful Action, either we ſhall not commit it, or we ſhall do it with regret, and a Conſcience half ſet on fire. But if we conſider before any holy Action or Duty, our conſidering Thoughts will much animate us to the Service. Wherefore I conclude from hence, that Sin <hi>ſhames</hi> it ſelf, and Religi<g ref="char:EOLhyphen"/>on <hi>juſtifies</hi> it ſelf.</p>
+            </div>
+            <div n="3" type="observation">
+               <pb n="85" facs="tcp:96692:46"/>
+               <head>
+                  <hi>III.</hi> The Worſhip of God is made pleaſant by a Senſe of his Preſence in it.</head>
+               <p>God's Preſence was formerly manifeſted by viſible Signs, as the <hi>Cloud, Fire,</hi> and <hi>Brightneſs.</hi> And though we cannot expect theſe, yet we have the ſame eſpe<g ref="char:EOLhyphen"/>cial Preſence of God with us. And when ever by Faith we at<g ref="char:EOLhyphen"/>tain any lively Apprehenſions of it, How ſolemn, profitable, and delightful doth it make the Wor<g ref="char:EOLhyphen"/>ſhip of God? with what Joy doth it bring us to the Aſſemblies, and how unwilling are we to be kept from them, when we have this Expectation from them? And finding our Expectation in this an<g ref="char:EOLhyphen"/>ſwered, how devoutly do we be<g ref="char:EOLhyphen"/>have
+<pb n="86" facs="tcp:96692:47"/>our ſelves in them? and how joyfully do we return home, as they that have <hi>ſeen</hi> God, and <hi>converſed</hi> with Him?</p>
+            </div>
+            <div n="4" type="observation">
+               <head>
+                  <hi>IV.</hi> It is our Intereſt to be Religious.</head>
+               <p>It is a moſt experienced Truth, that we ſhall never be well recon<g ref="char:EOLhyphen"/>ciled to Religion, and ſteady in Piety, until we ſee it is our Inte<g ref="char:EOLhyphen"/>reſt to be Religious.</p>
+            </div>
+            <div n="5" type="observation">
+               <head>
+                  <hi>V.</hi> It is difficult to pray without ſome wandring Thoughts in Prayer.</head>
+               <p>It is very difficult to carry Sin<g ref="char:EOLhyphen"/>cerity, and keep a Senſe of God through every part of Prayer,
+<pb n="87" facs="tcp:96692:47"/>which is neceſſary to be endea<g ref="char:EOLhyphen"/>voured, and is the Life of the Duty. I find it hard to keep my Soul intent, for my Thoughts are ſlippery and ſwift, and my Heart is ſnatch'd away ſome<g ref="char:EOLhyphen"/>times againſt my Will, and be<g ref="char:EOLhyphen"/>fore I am aware; yea, even then ſometimes, when I have made the greateſt Preparation, and have had the greateſt Reſolutions through Grace to avoid wandring Thoughts. <hi>My beſt Prayers there<g ref="char:EOLhyphen"/>fore need Chriſt's Incenſe to perfume them.</hi>
+               </p>
+            </div>
+            <div n="6" type="observation">
+               <head>
+                  <hi>VI.</hi> A deep Senſe of God in Prayer, is deſirable and raviſhing.</head>
+               <p>Could I underſtand my near approach to God in Prayer, it
+<pb n="88" facs="tcp:96692:48"/>would exalt my Soul above mea<g ref="char:EOLhyphen"/>ſure. And why am I not raviſh<g ref="char:EOLhyphen"/>ed with the Thoughts of being in the Preſence of God, and ha<g ref="char:EOLhyphen"/>ing the Ear, yea, the Heart of the King of Heaven? It is nothing but want of Faith, and the ſtrange Power of Senſe that weakens my Spiritual Apprehenſions, and keeps me from an unſpeakable Delight in my <hi>Addreſſes</hi> to God; What an high Priviledg is this to ſpeak to the Great <hi>JEHOVAH,</hi> as a Child to a <hi>Father,</hi> or a <hi>Friend</hi> to a <hi>Friend?</hi> But how ſlow of Heart am I to conceive the Glo<g ref="char:EOLhyphen"/>ry and Happineſs thereof? Could I but manage this great Duty as I ought, it would be an <hi>Heaven</hi> upon Earth; It would bring God down to me, or carry me up to Him, Why ſhould I not be car<g ref="char:EOLhyphen"/>ried above the World, when I
+<pb n="89" facs="tcp:96692:48"/>am ſo near to God? Why ſhould I not <hi>be changed into the ſame Image from Glory to Glory?</hi> Why am I not even tranſported beyond my ſelf?</p>
+            </div>
+            <div n="7" type="observation">
+               <head>
+                  <hi>VII.</hi> We ought to be conſtant in Prayer.</head>
+               <p>Inconſtancy in Prayer is not only <hi>ſinful,</hi> but <hi>dangerous;</hi> Omiſ<g ref="char:EOLhyphen"/>ſion breeds <hi>Diſlike,</hi> ſtrengthens <hi>Corruption,</hi> diſcourages the Spirit, and animates the unregenerate Part. Conſtancy in this Duty breeds an <hi>holy Confidence</hi> towards God: Inconſtancy breeds Strange<g ref="char:EOLhyphen"/>neſs. Upon an <hi>Omiſſion</hi> I muſt never approach God again, <hi>or my next Prayer muſt be an exerciſe of Repentance for my laſt Omiſſion.</hi>
+               </p>
+            </div>
+            <div n="8" type="observation">
+               <pb n="90" facs="tcp:96692:49"/>
+               <head>
+                  <hi>VIII.</hi> Sincere Prayers are never offered in vain.</head>
+               <p>
+                  <hi>Formality</hi> is apt to grow upon our ſecret Prayers, one of the beſt ways to prevent it, is to come to God with an <hi>Expectation.</hi> This ſets an Edg upon our Spirits. I do not enough obſerve the <hi>Re<g ref="char:EOLhyphen"/>turns</hi> of Prayer, though God hath ſaid, I ſhall never ſeek Him in vain. And when I obſerve, I muſt acknowledg I have daily Anſwers of my Prayers in ſome kind or other. Nay, I think I may ſay, I never offered a fer<g ref="char:EOLhyphen"/>vent Prayer to God, but I recei<g ref="char:EOLhyphen"/>ved ſomething from Him, at leaſt, as to the frame of my own Spirit.</p>
+            </div>
+            <div n="9" type="observation">
+               <pb n="91" facs="tcp:96692:49"/>
+               <head>
+                  <hi>IX.</hi> Prayer promotes Piety, and Godli<g ref="char:EOLhyphen"/>neſs, and Acquaintance with God.</head>
+               <p>
+                  <hi>It is the Chriſtian's Duty in every thing to pray;</hi> and Holineſs lieth at the bottom of this Duty. If I in every thing commit my ſelf to God, I ſhall be ſure to keep his way, or my Prayer will <hi>upbraid</hi> me. This keeps me from temp<g ref="char:EOLhyphen"/>ting him, and makes me careful to find a clear Call in every thing I undertake; knowing that if I go only where I am ſent, the Angel of his Preſence will go before me, and my way will be cleared of <hi>Temptations</hi> and Miſ<g ref="char:EOLhyphen"/>chiefs: <hi>When our Call is clear, our Way is ſafe.</hi> Moreover, the Pra<g ref="char:EOLhyphen"/>ctice of this leads me into much
+<pb n="92" facs="tcp:96692:50"/>Acquaintance with God; my ve<g ref="char:EOLhyphen"/>ry praying is an <hi>acquainting</hi> with Him. And if in every thing I pray, I ſhall in every thing give Thanks; and this ſtill brings me into more <hi>Acquaintance</hi> with him. By this means my Life will be filled up with <hi>a going to, and return<g ref="char:EOLhyphen"/>ing from God.</hi>
+               </p>
+            </div>
+            <div n="10" type="observation">
+               <head>
+                  <hi>X.</hi> The real Chriſtian loves Solitude.</head>
+               <p>
+                  <hi>Solitude</hi> is no Burden to a <hi>real Chriſtian,</hi> he is leaſt alone, when alone: His <hi>Solitude</hi> is as buſy and laborious as any part of his Life. It is impoſſible to be Religious in<g ref="char:EOLhyphen"/>deed, and not to love <hi>Solitude</hi> in ſome meaſure; for all Duties of <hi>Religion</hi> cannot be performed in <hi>Publick.</hi> It is alſo a thing as no<g ref="char:EOLhyphen"/>ble
+<pb n="93" facs="tcp:96692:50"/>as 'tis neceſſary, to love to <hi>con<g ref="char:EOLhyphen"/>verſe with our own Thoughts.</hi> The <hi>vain</hi> Mind doth not more natu<g ref="char:EOLhyphen"/>rally love Company, than the <hi>Di<g ref="char:EOLhyphen"/>vine</hi> Mind doth frequent retiring: Such have <hi>Work to do, and Meat to eat the World know not of.</hi> Their Pleaſures are ſecret, and their chiefeſt Delight is between God and themſelves. The moſt plea<g ref="char:EOLhyphen"/>ſant part of their Life is not in, but out of the World.</p>
+            </div>
+            <div n="11" type="observation">
+               <head>
+                  <hi>XI.</hi> There is more neceſſary to the rendring us truly Religious, than a mere external Revelation of Truth.</head>
+               <p>True <hi>Religion</hi> is Heaven-<hi>born:</hi> for to the perfecting of it in any Soul, not only the outward <hi>Re<g ref="char:EOLhyphen"/>velation</hi> is neceſſary, but alſo an
+<pb n="94" facs="tcp:96692:51"/>
+                  <hi>inward Secret, and particular Divine Impreſſion.</hi> The ſavouring of Divine Things is from the Power of the Higheſt over-ſhadowing the Mind: for till God makes this <hi>inward Impreſſion,</hi> Men are not a<g ref="char:EOLhyphen"/>ble to perceive the Things of God. There muſt be a Light within us as well as without us, otherwiſe the Goſpel may be hid even where it ſhines, ſo that who<g ref="char:EOLhyphen"/>ever conclude aright, that they are under the Power of <hi>Religion,</hi> muſt experience ſomething ve<g ref="char:EOLhyphen"/>ry <hi>ſupernatural,</hi> ſomething that is the Work of God, and not of Man, ſomething above all their own, or the <hi>Power</hi> of the whole World.</p>
+            </div>
+            <div n="12" type="observation">
+               <pb n="95" facs="tcp:96692:51"/>
+               <head>
+                  <hi>XII.</hi> Religion in the Practice of it is most highly Rational.</head>
+               <p>
+                  <hi>Religion</hi> makes a Man live up to his <hi>Reaſon.</hi> So far as a Man is a <hi>Chriſtian,</hi> ſo far is <hi>Reaſon</hi> exalt<g ref="char:EOLhyphen"/>ed, ſitteth in the Throne, and governs, and commands all the Powers of the Soul. <hi>Religion</hi> en<g ref="char:EOLhyphen"/>lightens, and ſtrengthens <hi>Reaſon;</hi> and <hi>Reaſon</hi> helps and ſerves <hi>Reli<g ref="char:EOLhyphen"/>gion. Reaſon</hi> is inſeparable from the Soul, (we ſhall be rational in Heaven) <hi>and Grace is the Re<g ref="char:EOLhyphen"/>covery of right Reaſon.</hi>
+               </p>
+               <p>The whole Practice of Godli<g ref="char:EOLhyphen"/>neſs, both in Divine and Moral Duties, and the frame of a Chri<g ref="char:EOLhyphen"/>ſtian's Spirit, is but the <hi>Rational Conſequence</hi> of two great Princi<g ref="char:EOLhyphen"/>ples,
+<pb n="96" facs="tcp:96692:52"/>which the Chriſtian hideth, and embraceth in his Heart, <hi>viz.</hi> That there is a God, and that the Scripture is his Word. The <hi>In<g ref="char:EOLhyphen"/>ferences</hi> from theſe two, and the <hi>Life</hi> of a Chriſtian are the ſame.</p>
+            </div>
+            <div n="13" type="observation">
+               <head>
+                  <hi>XIII.</hi> Religion in the Practice of it, is a li<g ref="char:EOLhyphen"/>ving in, and converſing with God.</head>
+               <p>True Relion makes a Man not only live above the World, and in <hi>Converſe</hi> with his own Reaſon, but alſo to live out of <hi>himſelf</hi> in God, converſing much with him. A real Chriſtian will deny himſelf for God, quit all <hi>Self-intereſt,</hi> and reſign to him in all Points of Du<g ref="char:EOLhyphen"/>ty and Service. God's Glory is his End, his Work, his Directi<g ref="char:EOLhyphen"/>on. He takes no Pleaſure in
+<pb n="97" facs="tcp:96692:52"/>himſelf, nor in any thing with<g ref="char:EOLhyphen"/>out himſelf, further than he ſeeth the <hi>Stamp</hi> of God upon it. He forgets himſelf, and minds no<g ref="char:EOLhyphen"/>thing but the <hi>Will</hi> of God, tri<g ref="char:EOLhyphen"/>umpheth in nothing more, than in his own Nothingneſs, and God's <hi>All-ſufficiency and Fulneſs. This is having nothing, and yet poſ<g ref="char:EOLhyphen"/>ſeſſing all things.</hi> This is <hi>Divine Life,</hi> and the heighth of Religi<g ref="char:EOLhyphen"/>on, to know and perceive, that not only as to our <hi>Natural Life,</hi> we depend upon <hi>Providence,</hi> and live, and move in God: But that alſo as to our <hi>Spiritual Life,</hi> we receive all of his <hi>Fulneſs,</hi> and are acted by a Life in and from him: Of this I deſire to be ſtill more, and continually ſenſible.</p>
+            </div>
+            <div n="14" type="observation">
+               <pb n="98" facs="tcp:96692:53"/>
+               <head>
+                  <hi>XIV.</hi> Religion gives us a real Enjoyment of God.</head>
+               <p>The true <hi>Chriſtian</hi> liveth above himſelf, not only in a way of <hi>Self-denial,</hi> but in the very <hi>Enjoy<g ref="char:EOLhyphen"/>ment</hi> of God. His <hi>Fellowſhip is with the Father, and with the Son:</hi> He every where, and in every thing ſeeketh out God, in <hi>Ordi<g ref="char:EOLhyphen"/>nances, Duties,</hi> and <hi>Providences,</hi> whether proſperous, or adverſe, nothing pleaſeth unleſs God may be found in it, or admitted into it. That is to him an <hi>Ordinance</hi> indeed, wherein he meeteth God. That is a merciful <hi>Providence</hi> in<g ref="char:EOLhyphen"/>deed in which appears much of the Finger of God; God is nearer to the true <hi>Chriſtian</hi> than to
+<pb n="99" facs="tcp:96692:53"/>others, for there is an inward feel<g ref="char:EOLhyphen"/>ing, an <hi>Intellectual</hi> Touch which Carnal Men have not. And here<g ref="char:EOLhyphen"/>in is the very Soul of Religion, and the <hi>Quinteſſence</hi> of it, that it unites us in a <hi>nearneſs</hi> to God, and gives us already to enjoy him.</p>
+            </div>
+            <div n="15" type="observation">
+               <head>
+                  <hi>XV.</hi> Religion gives a Man the power of himſelf, who by Nature is his own worſt Enemy.</head>
+               <p>True <hi>Religion</hi> gives a Man a great Command of, and reſtores him to a <hi>juſt Power and Dominion</hi> over himſelf, by ſubduing in him his own Will and Paſſions. Man in his <hi>depraved Condition,</hi> is himſelf his greateſt Enemy. For the <hi>Devil</hi> and <hi>World</hi> prevail againſt him, not by their own Strength,
+<pb n="100" facs="tcp:96692:54"/>but by the <hi>Treachery</hi> and Baſeneſs of his own Heart. <hi>The De<g ref="char:EOLhyphen"/>ſtruction of Souls is of themſelves.</hi> Ig<g ref="char:EOLhyphen"/>norance and neglect of God takes away Fear, and there is in him ſuch an Inclination to Sin, as leads him to a delightful Entertainment of Temptations; ſo that it is not ſo much the Devil and the World without, as the <hi>Devil</hi> and the <hi>World within,</hi> not the Baits of Ho<g ref="char:EOLhyphen"/>nour; Wealth, and Pleaſure with<g ref="char:EOLhyphen"/>out, but <hi>Ambition, Covetouſneſs,</hi> and <hi>Senſuality</hi> within, which prevail upon Men. Wherefore unto pu<g ref="char:EOLhyphen"/>rified Souls, and <hi>mortified</hi> Minds, many Temptations do in a great meaſure ceaſe to be <hi>Temptations.</hi>
+               </p>
+            </div>
+            <div n="16" type="observation">
+               <pb n="101" facs="tcp:96692:54"/>
+               <head>
+                  <hi>XVI.</hi> Self-denial bears a great part in the practice of true Religion.</head>
+               <p>The great Property of true Re<g ref="char:EOLhyphen"/>ligion, is, that it teaches <hi>Self-dental,</hi> which <hi>Self-denial</hi> is indeed the Foundation of Religion, and the Sum of all the Precepts of the <hi>Goſpel.</hi> Every true <hi>Chriſtian</hi> ſin<g ref="char:EOLhyphen"/>cerely, though imperfectly denies himſelf, and makes a Free-will Offering of himſelf to God, in reſigning to him his Will, And indeed we can never have Peace in Proſperity, unleſs our Will as to Action, be ſwallowed up in the Divine Will; nor can we have Contentment in Adverſity except our <hi>Will</hi> be complying with God's <hi>Will.</hi> This is the
+<pb n="102" facs="tcp:96692:55"/>great <hi>Victory,</hi> to <hi>conquer</hi> our ſelves, and to him that thus <hi>overcomes,</hi> is the Promiſe given of <hi>ſitting with Chriſt in his Throne.</hi>
+               </p>
+            </div>
+            <div n="17" type="observation">
+               <head>
+                  <hi>XVII.</hi> We glorify God, not by giving to him, but by receiving from him.</head>
+               <p>I know I can add nothing to God's Glory, I glorify him by receiving from him the <hi>Impreſs</hi> of his Glory upon me, rather than by communicating any Glory to him: When the frame of my Mind and Life is according to his <hi>Preſcription,</hi> when I am moſt like to him, when a Spirit of Holi<g ref="char:EOLhyphen"/>neſs, and Love runneth through all my Actions, then I <hi>glorify</hi> him. God ſeeketh his own Glory by communicating Grace and Hap<g ref="char:EOLhyphen"/>pineſs
+<pb n="103" facs="tcp:96692:55"/>to me, and I <hi>glorify</hi> him by deſiring and endeavouring to <hi>partake</hi> of his Grace and Happi<g ref="char:EOLhyphen"/>neſs.</p>
+            </div>
+            <div n="18" type="observation">
+               <head>
+                  <hi>XVIII.</hi> God's Being, and Providence, and Covenant, are most agreeable things to purified Minds.</head>
+               <p>The <hi>Notion</hi> of God is moſt <hi>agreeable</hi> to my Mind; I knew not how to live in the World, if there were not a God to <hi>govern</hi> it. His <hi>Being</hi> delights me, his <hi>Pro<g ref="char:EOLhyphen"/>vidence</hi> ſupports me, his <hi>Covenant</hi> and <hi>Love</hi> rejoyce me: without theſe things, I ſhould not value my own <hi>Being</hi> and Life.</p>
+            </div>
+            <div n="19" type="observation">
+               <pb n="104" facs="tcp:96692:56"/>
+               <head>
+                  <hi>XIX.</hi> Peace and Hope generally attend Sincerity.</head>
+               <p>I have <hi>Peace,</hi> though not always <hi>Great Aſſurance;</hi> my Hopes are ſuch as keep me in the Way that leads to Heaven. The <hi>Word</hi> de<g ref="char:EOLhyphen"/>lights me;<note place="margin">A proof of Sincerity.</note> God's <hi>Commands</hi> are not grievous to me; I rejoice in the <hi>Promiſes,</hi> his <hi>Ordinances</hi> are to me a Spiritual Feaſt. The know<g ref="char:EOLhyphen"/>ledge I have of <hi>God,</hi> the notice I take of his <hi>Providence,</hi> and me<g ref="char:EOLhyphen"/>ditation on his Word, afford me no little pleaſure.</p>
+            </div>
+            <div n="20" type="observation">
+               <pb n="105" facs="tcp:96692:56"/>
+               <head>
+                  <hi>XX.</hi> The Method of attaining Spiritual and Great Comfort.</head>
+               <p>Could I exerciſe Grace with greater ſtrength, and more fully mortifie Sin! Could I believe more ſtedfaſtly, pray more fer<g ref="char:EOLhyphen"/>vently, walk more evenly, and be more ſpiritual, heavenly, and humble, I ſhould have <hi>more ſtrong and abiding Comforts.</hi> But eſpeci<g ref="char:EOLhyphen"/>ally my Faith is weak, and there is nothing I am more liable to, than to <hi>distrust God,</hi> and to be jealous of him, and not to think my ſelf ſecure without ſuch <hi>De<g ref="char:EOLhyphen"/>monstrations</hi> of his Love as are not to be had, <hi>and would take away Faith.</hi>
+               </p>
+            </div>
+            <div n="21" type="observation">
+               <pb n="106" facs="tcp:96692:57"/>
+               <head>
+                  <hi>XXI.</hi> A good Name is a great Bleſſing, which God only can preſerve to us.</head>
+               <p>A <hi>good Name</hi> ought to be va<g ref="char:EOLhyphen"/>lued; <hi>It is better than precious Oint<g ref="char:EOLhyphen"/>ment,</hi> a real and a promiſed Bleſ<g ref="char:EOLhyphen"/>ſing, is <hi>valuable</hi> next to Life, if not <hi>equal</hi> to it. It is an Honour to God and our Profeſſion. Hea<g ref="char:EOLhyphen"/>ven makes us capable of doing good, and gives Strength to our <hi>Inſtructions and Reproofs,</hi> and with<g ref="char:EOLhyphen"/>out it we become uſeleſs in the World. But it is hard to keep a <hi>Good Name,</hi> it requireth much <hi>Innocence, Prudence, and Watchful<g ref="char:EOLhyphen"/>neſs:</hi> And when all is done, un<g ref="char:EOLhyphen"/>leſs God reſtrain the Spirits of Men, every <hi>lying Tongue,</hi> or ma<g ref="char:EOLhyphen"/>licious,
+<pb n="107" facs="tcp:96692:57"/>or unkind Spirit may blot our <hi>Name.</hi> It is hard to pre<g ref="char:EOLhyphen"/>ſerve a good Name, conſider<g ref="char:EOLhyphen"/>ing our own liableneſs to Miſ<g ref="char:EOLhyphen"/>carriages, and the <hi>Enmity</hi> of the World againſt Holineſs.</p>
+            </div>
+            <div n="22" type="observation">
+               <head>
+                  <hi>XXII.</hi> The Certainty of a Future Glori<g ref="char:EOLhyphen"/>ous Life.</head>
+               <p>It is moſt certain there is a Life of Glory. Not only the Scrip<g ref="char:EOLhyphen"/>tures aſſert it, but it is alſo one of the <hi>Principles</hi> of Natural Divini<g ref="char:EOLhyphen"/>ty. We have theſe things in the <hi>Heathens Creed;</hi> That there is a God; That the Soul of Man is <hi>Immortal,</hi> and that there will be <hi>Rewards</hi> and <hi>Puniſhments</hi> in a Life to come. But notwithſtanding the Certainty of it, it doth too
+<pb n="108" facs="tcp:96692:58"/>little affect my Soul; partly, be<g ref="char:EOLhyphen"/>cauſe there is ſome vail yet upon the great things of Heaven: And as my <hi>Knowledge</hi> is little, ſo my <hi>Faith</hi> is weak.</p>
+            </div>
+            <div n="23" type="observation">
+               <head>
+                  <hi>XXIII.</hi> God muſt not only be known, but alſo acknowledged.</head>
+               <p>God may in ſome ſort be <hi>known,</hi> and not <hi>acknowledged.</hi>The one is <hi>rational,</hi> and the other <hi>pra<g ref="char:EOLhyphen"/>ctical.</hi> This is fruit and ſubſtance, the other leaves and ſhadows. To acknowledge God, is to <hi>converſe</hi> with him, to have <hi>a lively ſenſe</hi> of his Being, All-governing <hi>Provi<g ref="char:EOLhyphen"/>dence,</hi> and of his <hi>Preſence</hi> every<g ref="char:EOLhyphen"/>where; to conſider his <hi>Majeſty, Greatneſs<g ref="char:punc">▪</g>
+                  </hi> and <hi>Glory</hi> with due Re<g ref="char:EOLhyphen"/>verence, his <hi>Wiſdom</hi> with Eſteem
+<pb n="109" facs="tcp:96692:58"/>and Admiration, his <hi>Power</hi> with Fear leſt it ſhould be improved againſt us, and with Truſt, Plea<g ref="char:EOLhyphen"/>ſure, and hope that it ſhall be im<g ref="char:EOLhyphen"/>ploy'd for us; his <hi>Holineſs</hi> with deep Reflection on our own Sin<g ref="char:EOLhyphen"/>fulneſs, and with deſire to imi<g ref="char:EOLhyphen"/>tate ſuch an <hi>excellent</hi> Patern.</p>
+            </div>
+            <div n="24" type="observation">
+               <head>
+                  <hi>XXIV.</hi> Death is a Chriſtian's Paſſage to Heaven.</head>
+               <p>To conſider Death as a Paſſage to Heaven, and the way to the Father, will help a Chriſtian <hi>chearfully</hi> to paſs through the World, and <hi>willingly</hi> to leave it.</p>
+            </div>
+            <div n="25" type="observation">
+               <pb n="110" facs="tcp:96692:59"/>
+               <head>
+                  <hi>XXV.</hi> The neceſſity of having the Aſſi<g ref="char:EOLhyphen"/>ſtance of the Holy Ghost.</head>
+               <p>I find it hard to preſerve en<g ref="char:EOLhyphen"/>tire my <hi>Communion</hi> with the Holy Spirit, though I perceive my de<g ref="char:EOLhyphen"/>pendance upon him is very great. He is the <hi>Original</hi> and <hi>Printiple</hi> of all Spiritual Life and Motion; and without his continual breath<g ref="char:EOLhyphen"/>ing, I am as a disjoynted weak Member, which hath neither Con<g ref="char:EOLhyphen"/>ſiſtency, nor Uniformity in its Motions or Actions.</p>
+            </div>
+            <div n="26" type="observation">
+               <pb n="111" facs="tcp:96692:59"/>
+               <head>
+                  <hi>XXVI.</hi> Conſcience muſt not be offended, by allowing any Sin.</head>
+               <p>I find it better to offend a World of Men, than to offend my own Conſcience. Conſci<g ref="char:EOLhyphen"/>ence is quickly offended, but not ſo ſoon pacified. Conſcience hath a good <hi>Memory,</hi> and will keep the Remembrance of Of<g ref="char:EOLhyphen"/>fences along time, and give ma<g ref="char:EOLhyphen"/>ny a ſecret Wound, and make Faith and Confidence in God weak, and hinder the Vigor of Prayer, and <hi>Freedom</hi> hi our Con<g ref="char:EOLhyphen"/>verſe with him.</p>
+            </div>
+            <div n="27" type="observation">
+               <pb n="112" facs="tcp:96692:60"/>
+               <head>
+                  <hi>XXVII.</hi> It is not good to paſs immediately from much Buſineſs to Prayer.</head>
+               <p>I find it beſt to go from no kind of <hi>Employment</hi> that buſieth my Head, and ſcattereth my Thoughts, immediately to Prayer, it I may avoid it.</p>
+            </div>
+            <div n="28" type="observation">
+               <head>
+                  <hi>XXXVIII.</hi> Chriſtian Watchfulneſs is very ne<g ref="char:EOLhyphen"/>ceſſary.</head>
+               <p>It is ſadly experienced, how Freedom from the Power of Sin, may be <hi>impaired,</hi> for want of Care and Watchfulneſs.</p>
+            </div>
+            <div n="29" type="observation">
+               <pb n="113" facs="tcp:96692:60"/>
+               <head>
+                  <hi>XXIX.</hi> They that know God's Law, and will conſider and reflect, will diſcern much Sin in themſelves.</head>
+               <p>If we are not ſenſible of Sin in our Souls, it proceeds either from <hi>Ignorance</hi> of what is Sin, or from not <hi>reflecting</hi> on our ſelves. They who know the ſtrictneſs of God's Law, and the degrees of Sin, and are Obſervers of them<g ref="char:EOLhyphen"/>ſelves, will find many workings and motions of Pride, vain Glo<g ref="char:EOLhyphen"/>ry, Love of the World, Selfiſh<g ref="char:EOLhyphen"/>neſs, Envy, and other evil Af<g ref="char:EOLhyphen"/>fections, and that they cannot keep themſelves clean, without a continual Care of their Hearts.</p>
+            </div>
+            <div n="30" type="observation">
+               <pb n="114" facs="tcp:96692:61"/>
+               <head>XXX.</head>
+               <p>It is the ſpiritual part of Reli<g ref="char:EOLhyphen"/>gion that is hard, the outward part is eaſie.</p>
+            </div>
+            <div n="31" type="observation">
+               <head>
+                  <hi>XXXI.</hi> The Remain of Sin with us, is very active.</head>
+               <p>Sin within always works, and labours to bring forth the deeds of the Fleſh. It is alway either <hi>enclining</hi> to Evil, or <hi>hindring</hi> from Good, or <hi>disframing</hi> the Soul, and making it leſs meet for converſe with God. It deceives, ſeduces, and tempts, and in ſome meaſure corrupts and pollutes all that we perform to God, or do for him.</p>
+            </div>
+            <div n="32" type="observation">
+               <pb n="115" facs="tcp:96692:61"/>
+               <head>
+                  <hi>XXXII.</hi> Sin cannot be mortified by our own Strength.</head>
+               <p>I find an Aptneſs when Sin af<g ref="char:EOLhyphen"/>flicts me, preſently to promiſe to my <hi>ſelf</hi> and <hi>God,</hi> that I will do ſo no more, and do reſolve by <hi>Watchfulneſs</hi> and <hi>Prayer</hi> to prevent it. And this will do ſomething for a ſeaſon, till my Heat abates, and my Senſe of Sin wears off, and then my Mortification va<g ref="char:EOLhyphen"/>niſhes alſo. Therefore I reſolve never to think of mortifying Sin by my own Strength, but hum<g ref="char:EOLhyphen"/>bly to look up to God for the help of his Holy Spirit.</p>
+            </div>
+            <div n="33" type="observation">
+               <pb n="116" facs="tcp:96692:62"/>
+               <head>
+                  <hi>XXXIII.</hi> There ariſes a great Pleaſure from having reſiſted Temptations.</head>
+               <p>There will never be found ſo much Satisfaction in <hi>gratifying a Temptation,</hi> as in a <hi>noble, generous refuſing of it.</hi> The more I reſiſt, the more I find of Peace; and the moſt pleaſing <hi>Temptation</hi> deni<g ref="char:EOLhyphen"/>ed, brings with it the ſweeteſt <hi>Conſolation.</hi>
+               </p>
+            </div>
+            <div n="34" type="observation">
+               <head>
+                  <hi>XXXIV.</hi> It is better to prevent Sin than to admit it, and then mortify it.</head>
+               <p>If Sin enters, it muſt be diſ<g ref="char:EOLhyphen"/>lodged again: And it is far eaſier to <hi>prevent</hi> than to <hi>eject</hi> it. It is
+<pb n="117" facs="tcp:96692:62"/>not eaſy to bring the Soul back again into the State in which it was before it contracted Guilt.</p>
+            </div>
+            <div n="35" type="observation">
+               <head>
+                  <hi>XXXV.</hi> Anger is ſeldom innocent.</head>
+               <p>I have no reaſon to truſt my <hi>Anger;</hi> it is not ſo juſt and righte<g ref="char:EOLhyphen"/>ous as it ſometimes ſeems to be. <hi>Anger</hi> is apt to blind my Mind, and then <hi>Tyrannize</hi> over it. There is in it ſomething of Rage and Vi<g ref="char:EOLhyphen"/>olence: It ſtirs me up to act, but takes away my <hi>Rule</hi> by which I ſhould act. I find an Aptneſs to credit my <hi>Paſſion,</hi> and that fo<g ref="char:EOLhyphen"/>ments it. And when I am under the Power of <hi>Paſſion,</hi> I have cauſe to ſuſpect my own Appre<g ref="char:EOLhyphen"/>henſions: For Paſſion is blind, and cannot judg; it is furious and
+<pb n="118" facs="tcp:96692:63"/>hath no leiſure to debate and conſider. Giving way to it makes me unfit to act or receive Grace.</p>
+               <p>Though Anger ſhould ſerve the <hi>Intereſt</hi> of Religion, and ſo be good, yet it being a ſtrong and fierce Motion of the Spirit, it muſt be uſed with great Advice and <hi>Caution.</hi>
+               </p>
+            </div>
+            <div n="36" type="observation">
+               <head>XXXVI.</head>
+               <p>It is very hard and difficult to give God his due Glory under croſs Providences.</p>
+            </div>
+            <div n="37" type="observation">
+               <head>
+                  <hi>XXXVII.</hi> There is a Chain of Graces.</head>
+               <p>It is moſt certain there is a <hi>Chain</hi> of Graces inſeparably link'd
+<pb n="119" facs="tcp:96692:63"/>together, and they who have one, have all in ſome good mea<g ref="char:EOLhyphen"/>ſure. They who have a lively Hope, have fervent Love to God; and they who love God, love their Neighbours; and they who love God and their Neigh<g ref="char:EOLhyphen"/>bours, hate Sin; and they who hate Sin, ſorrow for it; and they who ſorrow for Sin, will avoid the <hi>Occaſions</hi> of it: and they that are thus watchful, will pray fervently ; and they who pray, will <hi>meditate;</hi> and they who pray and meditate at home, will joyn ſeriouſly in the <hi>Publick Worſhip</hi> of God. Thus Graces are com<g ref="char:EOLhyphen"/>bined, and holy Duties link'd to<g ref="char:EOLhyphen"/>gether, and no Grace is alone. It is not with <hi>Graces</hi> as with <hi>Gifts,</hi> to one is given this, and to another that.</p>
+            </div>
+            <div n="38" type="observation">
+               <pb n="120" facs="tcp:96692:64"/>
+               <head>
+                  <hi>XXXVIII.</hi> To be impartial in Piety and Mor<g ref="char:EOLhyphen"/>tification, is very difficult.</head>
+               <p>It is a moſt difficult thing to withdraw Love from every Sin: To proceed a little way in <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> is not hard: But it is really ſo to go to the <hi>Extent</hi> of <hi>Mortifica<g ref="char:EOLhyphen"/>tion</hi> and Piety; ſomething of Re<g ref="char:EOLhyphen"/>ligion may be embraced, and our own Hearts, Satan, and the World not offended. Some Mo<g ref="char:EOLhyphen"/>rality and an outſide-Devotion is not tedious to Fleſh and Blood, neither doth it ſhake <hi>Satan's King<g ref="char:EOLhyphen"/>dom,</hi> nor trouble the moſt of them we converſe with. But when we come once to engage in a cloſe walking with God, and to live by Rule in every part of
+<pb n="121" facs="tcp:96692:64"/>Life, reſolving ſeriouſly to in<g ref="char:EOLhyphen"/>dulge no Sin whatever, we pull the <hi>Kingdom of Darkneſs</hi> upon our Heads. Then Corruption will ſtrive, Satan will rage, the World will ſcoff, watch for our halting, and glory in our Miſcarriages; and we ſhall find it difficult to run againſt the courſe of Nature, op<g ref="char:EOLhyphen"/>poſe Satan, and go contrary to Men: But of neceſſity this, all this muſt be; for any Sin indulged, will divorce us from Chriſt.</p>
+            </div>
+            <div n="39" type="observation">
+               <head>
+                  <hi>XXXIX.</hi> To truſt in God, is a Chriſtian's neceſſary Duty.</head>
+               <p>I find <hi>truſting</hi> in God my moſt neceſſary Duty. My Condition is ſuch, that I cannot ſee before me: I know not what a day may
+<pb n="122" facs="tcp:96692:65"/>bring forth. I find my ſelf weak and impotent, unable to do or ſuffer as I ought: I cannot pre<g ref="char:EOLhyphen"/>ſerve my Soul, Life, Health, or any thing dear to me. And with<g ref="char:EOLhyphen"/>out <hi>truſting</hi> in God, I cannot ex<g ref="char:EOLhyphen"/>pect God ſhould fulfil any <hi>Pro<g ref="char:EOLhyphen"/>miſe,</hi> it being the <hi>Condition</hi> of the <hi>Promiſe.</hi>
+               </p>
+            </div>
+            <div n="40" type="observation">
+               <head>
+                  <hi>XL.</hi> Truſting in God produces real Comfort.</head>
+               <p>I find it comfortable to truſt in God; it raiſes my Hope, and gives me preſent Reſt and Quiet, and holy Contentation. <hi>Truſting in God, like many other Duties, is my Work, and my Ways.</hi>
+               </p>
+            </div>
+            <div n="41" type="observation">
+               <pb n="123" facs="tcp:96692:65"/>
+               <head>
+                  <hi>XLI.</hi> To truſt in God is one of our most difficult Duties.</head>
+               <p>I find it <hi>difficult to truſt in God at all times.</hi> When Providences croſs my Expectation, they <hi>diſ<g ref="char:EOLhyphen"/>courage</hi> me, and prove a Temp<g ref="char:EOLhyphen"/>tation through my Weakneſs, I have but feeble Apprehenſions of the Power and Goodneſe of God when I come to make uſe of them for my <hi>particular Security</hi> and Benefit. I think I may ſay, it is eaſier to <hi>obey,</hi> and act for God, than to <hi>truſt</hi> in him.</p>
+            </div>
+            <div n="42" type="observation">
+               <pb n="124" facs="tcp:96692:66"/>
+               <head>
+                  <hi>XLII.</hi> Faith is the Root of other Graces.</head>
+               <p>Faith is the Principle of Spiri<g ref="char:EOLhyphen"/>tual Life and Motion; every true good Work and Exerciſe of Grace take their Riſe and Vigor from Faith. A Chriſtian prays, reads, and meditates, hears, hopes, loves, is zealous for God, and doth good to others; Why? becauſe he believes. What is <hi>Repentance</hi> and godly Sorrow, but the Soul acted by <hi>Faith</hi> upon the Belief of the Sinfulneſs of Sin, its Oppoſi<g ref="char:EOLhyphen"/>tion and Contradiction to God; and of the high Obligations we are under to avoid it, and of the Miſery we run into by venturing upon it, and of the Madneſs and Folly of ruining our ſelves by it.</p>
+               <p>
+                  <pb n="125" facs="tcp:96692:66"/>
+I find Faith moſt neceſſary, and that I cannot be without it. Where can I go, or what can I undertake, wherein <hi>Faith</hi> will not be <hi>neceſſary?</hi> If I pray or me<g ref="char:EOLhyphen"/>ditate, it will be a ſtrange Exer<g ref="char:EOLhyphen"/>ciſe if <hi>Faith</hi> be wanting? If I read or hear the Word, it will not profit me unleſs I <hi>mix it with Faith:</hi> would I hope in any Pro<g ref="char:EOLhyphen"/>miſe? I muſt call forth my Faith: Would I be heavenly-minded? it is Faith muſt raiſe me above the World: Would I be zealous for God? <hi>Zeal will not gather Heat unleſs Faith blows the Fire:</hi> Would I have Peace and Joy? they muſt be had by believing: Nay, I can do nothing in my more ordinary Affairs without Faith: I muſt know and believe my Deſign is good, and centers in my great Deſign, which is the Glory of
+<pb n="126" facs="tcp:96692:67"/>God. And the means I employ muſt be known and believed to be regular and holy, or I dare not make uſe of them. And then I muſt be able to caſt my Care up<g ref="char:EOLhyphen"/>on God, and to commit the <hi>E<g ref="char:EOLhyphen"/>vent</hi> and Iſſue to him, or elſe my Buſineſs becomes <hi>burdenſom</hi> to me, and I have no Reſt in my ſelf.</p>
+            </div>
+            <div n="43" type="observation">
+               <head>
+                  <hi>XLIII.</hi> The Devil is a mighty, but not an invincible Enemy.</head>
+               <p>I have a powerfull, ſubtile, watchful, and malicious <hi>Enemy</hi> to encounter with: But he is a <hi>known Enemy,</hi> the Word hath diſcovered him, and his Power is limited. God hath promiſed me Victory over him; nay, my Lord hath
+<pb n="127" facs="tcp:96692:67"/>already <hi>conquered</hi> him. And I am not alone in this <hi>Warfare</hi> againſt <hi>Satan,</hi> I fight not againſt him ſingly, there is a whole <hi>Army</hi> en<g ref="char:EOLhyphen"/>gaged in the Quarrel. The <hi>whole Church</hi> prayes and fights againſt him; the Saints <hi>collectively</hi> make War upon him. All the Prayers of the Church go up to Heaven for my Aſſiſtance, ſo that I have help againſt Temptation from every Corner; all ſtrike this Dart into his Side, <hi>Lord, lead us not into Temptation.</hi> And we all fight un<g ref="char:EOLhyphen"/>der our <hi>Victorious Captain Chriſt Jeſus.</hi> The Honour of God, and of Chriſt my Head, is bound up in my Safety, and therefore I ſhall conquer; nay, his very Tempta<g ref="char:EOLhyphen"/>tions ſhall turn to my good. All theſe Conſiderations are my En<g ref="char:EOLhyphen"/>couragement.</p>
+            </div>
+            <div n="44" type="observation">
+               <pb n="128" facs="tcp:96692:68"/>
+               <head>
+                  <hi>XLIV.</hi> The Things which the Holy Ghoſt teacheth.</head>
+               <p>The Holy Spirit teacheth eve<g ref="char:EOLhyphen"/>ry gracious Soul to regard the <hi>Im<g ref="char:EOLhyphen"/>mortal Spirit</hi> above the <hi>Body,</hi> to ob<g ref="char:EOLhyphen"/>ſerve <hi>God</hi> rather than <hi>Man,</hi> and to provide for <hi>Eternity</hi> rather than <hi>Time.</hi> And all their circumſpect walking, their redeeming their Time, their daily Devotion, their Self-denial, Conſciencious Carri<g ref="char:EOLhyphen"/>age, and what-ever provokes <hi>pro<g ref="char:EOLhyphen"/>phane</hi> Mouths to reproach them, are but the neceſſary Effects of theſe three <hi>Principles</hi> of <hi>Wiſdome.</hi> And all the Wickedneſs of Un<g ref="char:EOLhyphen"/>godly Men proceeds from the want of this <hi>Wiſdom.</hi>
+               </p>
+            </div>
+            <div n="45" type="observation">
+               <pb n="129" facs="tcp:96692:68"/>
+               <head>
+                  <hi>XLV.</hi> Holineſs is a Privilege.</head>
+               <p>I look upon <hi>Holineſs</hi> as none of the leaſt of a Chriſtian's <hi>Privilege.</hi> But we are apt to conſider it more as <hi>Neceſſary</hi> than as <hi>Glorious,</hi> as our <hi>Duty</hi> rather than our <hi>Ornament. Acceptance</hi> with God is a Privilege! And is <hi>likeneſs</hi> to Him inferiour to it? Is freedom from Satan's Ma<g ref="char:EOLhyphen"/>lice a Privilege? and is not the deſtroying his Image in us the ſame? To be turned from Car<g ref="char:EOLhyphen"/>nal to Spiritual, from Earthly to Heavenly, from Pride to Humi<g ref="char:EOLhyphen"/>lity, from Peeviſh to Kind, from Sinners to Saints; Are not theſe things Privileges?</p>
+               <p>Let this Truth be entertain'd. And when we ſhall ſee the beau<g ref="char:EOLhyphen"/>ty
+<pb n="130" facs="tcp:96692:69"/>of Holineſs, and deſire it, becauſe we love and eſteem it, then God will open the <hi>Treaſures</hi> of his Grace, and give us more plentifully of the pouring forth of his Spirit.</p>
+            </div>
+            <div n="46" type="observation">
+               <head>
+                  <hi>XLVI.</hi> The neceſſity of having, and living by ſome ſtated Rules.</head>
+               <p>To the ſhaking off the Tyran<g ref="char:EOLhyphen"/>nical Government of Paſſion, Ambition, and Self-will; and that we may not be hurried by every Motion of our Minds, it is neceſ<g ref="char:EOLhyphen"/>ſary to have ſome <hi>fixed and ſtated Rules of Good and Evil;</hi> without this we ſhall never live as becomes <hi>Reaſonable Creatures.</hi> Such is our Ignorance, as we ſhall not know how to govern our ſelves, unleſs
+<pb n="131" facs="tcp:96692:69"/>we apply to ſome Rule for Infor<g ref="char:EOLhyphen"/>mation. And ſo many and great are our Temptations, that they will prevail, unleſs we keep ſome fixed Rule for our Actions. He that acteth always according to <hi>preſent Thoughts</hi> and Inclinations, ſhall never be able to reſiſt the offers of Sin when <hi>Temptations are preſent.</hi> Such alſo is our Incogi<g ref="char:EOLhyphen"/>tancy, and Forgetfulneſs, that it is needful to fix ſome Rules for our Actions, to which we bind our ſelves not to depart from them; for this will allarm and inlighten Conſcience, and <hi>Con<g ref="char:EOLhyphen"/>ſcience is the ſureſt help to Memory.</hi>
+               </p>
+               <p>Our Inconſtancy alſo to our ſelves, makes it needful to keep ſome Rules of Life, that ſo every Thought, every Company, every Accident of Life may not alter our Minds and Actions.</p>
+            </div>
+            <div n="47" type="observation">
+               <pb n="132" facs="tcp:96692:70"/>
+               <head>
+                  <hi>XLVII.</hi> We converſe with God in his holy Ordinances, when our Minds are ſutably affected under them.</head>
+               <p>The way and means by which God conveys himſelf, is by the <hi>Ordinances</hi> of his publick. Wor<g ref="char:EOLhyphen"/>ſhip, and private <hi>Duties of Reli<g ref="char:EOLhyphen"/>gion.</hi> Theſe are like the <hi>Taberna<g ref="char:EOLhyphen"/>cle</hi> and <hi>Ark</hi> of old: As they were filled and covered ſometimes with the <hi>Cloud,</hi> ſo theſe with Spi<g ref="char:EOLhyphen"/>ritual, and Inviſible <hi>Glory.</hi> But a bare attending on theſe, is not our Communion with God: Our Communion is, to have our Souls ſuitably affected with the matter of them. When the Heart is hot, the Affections mo<g ref="char:EOLhyphen"/>ving, Grace exerciſed; when a
+<pb n="133" facs="tcp:96692:70"/>Threatning awes us, a Command delights, and a Promiſe enters the Ear, like good News in a peri<g ref="char:EOLhyphen"/>lous time; when a Diſcourſe of Chriſt <hi>inflames</hi> the Soul with Love and Deſire; when a Diſcourſe of Heaven raiſes the Mind above the World; when Truths are accom<g ref="char:EOLhyphen"/>panied with <hi>Light and Love,</hi> ſo that the Soul cleaves to them, and hangs upon them; this is Com<g ref="char:EOLhyphen"/>munion with God; and then are <hi>Ordinances</hi> and <hi>Duties</hi> filled with the Holy Spirit.</p>
+            </div>
+            <div n="48" type="observation">
+               <head>
+                  <hi>XLVIII.</hi> To govern the Tongue, is one of the difficult parts of Religion.</head>
+               <p>'Tis hard to govern the <hi>Tongue aright,</hi> much of Mortification li<g ref="char:EOLhyphen"/>eth in the reſtraining of it, much
+<pb n="134" facs="tcp:96692:71"/>poſitive Sanctification in the right uſe of it. It requites much Know<g ref="char:EOLhyphen"/>ledg, Wiſdom; Faithfulneſs, Cou<g ref="char:EOLhyphen"/>rage, Watchfulness, Deliberation, Examination of our ſelves, much Prayer; yea much and ſtrong Grace to <hi>govern</hi> it well. The right <hi>governing</hi> of it is alſo a glorious part of our Chriſtian <hi>Profeſſion,</hi> and mightily commends it to others.</p>
+            </div>
+            <div n="49" type="observation">
+               <head>
+                  <hi>XLIX.</hi> He that governs his Tongue a<g ref="char:EOLhyphen"/>right, the ſame is a perfect Man.</head>
+               <p>The due governing of the Tongue implies, and ſuppoſes whatever elſe goes to the ma<g ref="char:EOLhyphen"/>king up of <hi>Evangelical Perfection.</hi> Where the Tongue is governed, the whole Life alſo is ordered by
+<pb n="135" facs="tcp:96692:71"/>Rule. (And it will be found that whoever wants Grace, faileth much in this Particular, and diſ<g ref="char:EOLhyphen"/>covers the want of it, <hi>either by his Speech, or by his Silence.</hi>) For the ſame <hi>Light</hi> which directs the Government of the Tongue, the ſame <hi>Arguments</hi> that move to it, and the ſame <hi>Power</hi> that aſſiſts it, will enlighten us to ſee other Du<g ref="char:EOLhyphen"/>ties, move as ſtrongly to under<g ref="char:EOLhyphen"/>take them, and as effectually help us to perform them.</p>
+            </div>
+            <div n="50" type="observation">
+               <head>
+                  <hi>L.</hi> A due Care of our Thoughts is a great Evidence of Upright<g ref="char:EOLhyphen"/>neſs.</head>
+               <p>It ſhews that Religion hath in<g ref="char:EOLhyphen"/>deed poſſeſſed our Minds, when we are careful ſo to mangage
+<pb n="136" facs="tcp:96692:72"/>our Thoughts as that they be not only <hi>innocent,</hi> but moſt frequently very <hi>ſerious,</hi> and holy.</p>
+            </div>
+            <div n="51" type="observation">
+               <head>
+                  <hi>LI.</hi> Meekneſs produces Peace and Joy.</head>
+               <p>The Exerciſe of that <hi>Meekneſs,</hi> which is a <hi>ſupernatural</hi> Grace, a Diſpoſition wrought in the Soul by the Holy Ghoſt, which aims at God, Glory, and the Honour of Religion, makes <hi>Conſcience</hi> ſerene and joyful. When I can reflect upon Paſſions <hi>reſtrained,</hi> Injuries <hi>forgiven,</hi> an Enemy <hi>loved, Content<g ref="char:EOLhyphen"/>ment</hi> in every Condition, ready <hi>ſubmiſſion</hi> to every Providence, and much <hi>Self-denial,</hi> that God may be pleaſed; how pleaſantly doth Conſcience look upon it?</p>
+            </div>
+            <div n="52" type="observation">
+               <pb n="137" facs="tcp:96692:72"/>
+               <head>
+                  <hi>LII.</hi> Meekneſs gives us the poſſeſsion of our ſelves.</head>
+               <p>Meekneſs giveth us the entire poſſeſſion of our ſelves, and the uſe of our <hi>Faculties:</hi> But Anger and Impatience cauſeth that we cannot <hi>enjoy</hi> our ſelves, nor apply to any Affair, making every thing tedious and troubleſom to us.</p>
+            </div>
+            <div n="53" type="observation">
+               <head>
+                  <hi>LIII.</hi> Meekneſs preſerves our Peace with our Neighbours.</head>
+               <p>As Meekneſs procures Peace in our own Souls, ſo it alſo pro<g ref="char:EOLhyphen"/>cures Peace and Quiet amongſt <hi>Neighbours.</hi> Few will ſtrive with
+<pb n="138" facs="tcp:96692:73"/>them that will not contend, and are ſo far from injuring others, that they readily forgive ſuch as injure them.</p>
+            </div>
+            <div n="54" type="observation">
+               <head>
+                  <hi>LIV.</hi> The expectation of Death is profi<g ref="char:EOLhyphen"/>table to a Chriſtian.</head>
+               <p>The ſerious Expectation of <hi>Death</hi> (not forgetting Judgment) freeth us from the afflicting diſ<g ref="char:EOLhyphen"/>compoſing <hi>Apprehenſions</hi> thereof. It doth the Chriſtian <hi>great Service,</hi> it takes off from Carnal Plea<g ref="char:EOLhyphen"/>ſures, Covetous Deſires, and Am<g ref="char:EOLhyphen"/>bitious Purſuits, and adminiſters to Patience and Contentment. It aſſiſts his <hi>redeeming</hi> his Time, prompts him to ſettle the Affairs of his Soul, to put his Heart and Houſe in Order, to leave nothing
+<pb n="139" facs="tcp:96692:73"/>to be done to <hi>morrow,</hi> that may be done to day. It excites to fre<g ref="char:EOLhyphen"/>quent Examination, quickens Re<g ref="char:EOLhyphen"/>pentance, and ſuffers him not to continue in Sin. It aſſiſts Fer<g ref="char:EOLhyphen"/>vency in Prayer, as it drives away Worldly Cares, and helps againſt Diſtraction. for Death is a <hi>ſo<g ref="char:EOLhyphen"/>lemn</hi> thing, and the thoughts of it breed a <hi>Paſsion</hi> in the Mind, <hi>and all ſoft Paſsions help Devotion.</hi> It ſweetens all Labour, Work, and Duty, becauſe of the Everlaſting Reſt it leads unto. It moves us to pray for others, to counſel them, and do what we can for them. Thus Death in the <hi>Ex<g ref="char:EOLhyphen"/>pectation</hi> of it, is a Bleſſing, if we expect it as certain, and yet <hi>un<g ref="char:EOLhyphen"/>certain</hi> when it ſhall come; as at<g ref="char:EOLhyphen"/>tended with <hi>Judgment,</hi> and as put<g ref="char:EOLhyphen"/>ting a full End to our <hi>Probation State.</hi> And thus <hi>Death is ours.</hi>
+               </p>
+            </div>
+            <div n="55" type="observation">
+               <pb n="140" facs="tcp:96692:74"/>
+               <head>
+                  <hi>LV.</hi> Formality in Holy Things muſt be avoided.</head>
+               <p>Every <hi>Real Christian</hi> hates to act in Divine Things out of Cuſtom and Formality, and the leaſt <hi>mix<g ref="char:EOLhyphen"/>ture</hi> of a <hi>By-end</hi> is to him trouble<g ref="char:EOLhyphen"/>ſome and afflicting. His Actions are with <hi>Conſideration,</hi> and good Deſign. He will not only pray, but conſider to whom, and why! And doth it either in obedience to a Command, or as the <hi>paying of Homage to God,</hi> or as an In<g ref="char:EOLhyphen"/>ſtance of Truſt, Dependance, and Love, or as a Means of obtain<g ref="char:EOLhyphen"/>ing ſome Bleſſing, or as an <hi>Ordi<g ref="char:EOLhyphen"/>nance</hi> that brings him near into the <hi>Preſence</hi> of God. And when he waits upon the <hi>Publick Worſhip,</hi>
+                  <pb n="141" facs="tcp:96692:74"/>it is that thereby he may make open <hi>Profeſſion</hi> of Faith and Holi<g ref="char:EOLhyphen"/>neſs, and that he may <hi>draw nigh</hi> to God.</p>
+            </div>
+            <div n="56" type="observation">
+               <head>
+                  <hi>LVI.</hi> The Government of our Thoughts is neceſſary.</head>
+               <p>It is no little Self-denial to ma<g ref="char:EOLhyphen"/>nage our Thoughts ſtrictly, yet it is the moſt <hi>reaſonable</hi> part of Religion, and not properly the <hi>Heighth</hi> of Piety, but the <hi>Founda<g ref="char:EOLhyphen"/>tion</hi> of it, without which it can<g ref="char:EOLhyphen"/>not ſtand. He that can <hi>bluſh at his Thoughts,</hi> and endeavours to ſuppreſs them, who dares not entertain the leaſt Sin, no not ſo much as in his <hi>Imagination,</hi> look<g ref="char:EOLhyphen"/>ing upon God, and <hi>Conſcience</hi> as more than a <hi>thouſand Witneſſes:</hi>
+                  <pb n="142" facs="tcp:96692:75"/>This Man is Religious indeed.</p>
+               <p>This manage of the Thoughts is of great Service to a Chriſtian; it is a vaſt Security againſt many Temptations. For Thoughts breed <hi>Deſires,</hi> and Deſires increaſe into <hi>Paſſion,</hi> and Paſſions will grow ſtrong, and being grown ſtrong, they abuſe Reaſon and throw the Soul headlong, and render it expoſed to divers Temp<g ref="char:EOLhyphen"/>tations.</p>
+            </div>
+            <div n="57" type="observation">
+               <head>
+                  <hi>LVII.</hi> The End of our Actions muſt be good.</head>
+               <p>Great Care muſt be had con<g ref="char:EOLhyphen"/>cerning the <hi>End</hi> of our Actions, for this, like the <hi>Altar,</hi> ſanctifies the <hi>Gift.</hi> A Man's End hath a mighty <hi>Influence</hi> upon him; as is
+<pb n="143" facs="tcp:96692:75"/>the End, ſuch is the Man: He whoſe End is <hi>worldly,</hi> is himſelf <hi>earthly:</hi> But if God be a Man's End, it makes him God-like.</p>
+            </div>
+            <div n="58" type="observation">
+               <head>
+                  <hi>LVIII.</hi> We muſt beware of Spiritual Sloth.</head>
+               <p>Spiritual Sloth brings <hi>Spiritual Poverty.</hi> To have Affections in Holy Duties, requires much force, to which Nature is averſe. Cor<g ref="char:EOLhyphen"/>rupt Nature doth not always diſ<g ref="char:EOLhyphen"/>cover its <hi>oppoſition</hi> to that which is good, by paſſionate contradict<g ref="char:EOLhyphen"/>ing, but oftentimes effectually enough by Sloth and ſluggiſh<g ref="char:EOLhyphen"/>neſs.</p>
+            </div>
+            <div n="59" type="observation">
+               <pb n="144" facs="tcp:96692:76"/>
+               <head>
+                  <hi>LIX.</hi> Detraction muſt be avoided.</head>
+               <p>We are naturally prone to ſpeak evil of others with delight, and to <hi>aggravate</hi> their Faults. This Sin perſiſted in, will ſhut out of Heaven, as well as Murder or Theft: And there is a ſecret Plague attending it in this Life; for the way of Divine Providence is frequently <hi>Retaliation.</hi>
+               </p>
+            </div>
+            <div n="60" type="observation">
+               <head>
+                  <hi>LX.</hi> The Promiſes are full of Support and Comfort, but God muſt il<g ref="char:EOLhyphen"/>luminate our Minds to diſcern what is treaſured up in them.</head>
+               <p>The Promiſes, which are the Covenant of Grace diſplay'd, are
+<pb n="145" facs="tcp:96692:76"/>moſt precious in the matter of them, and moſt neceſſary and uſeful to the Chriſtian's <hi>Spiritual Life;</hi> they help and ſupport when all other things fail. The Satis<g ref="char:EOLhyphen"/>faction they bring, is a real true Pleaſure; yet their <hi>Glory and Ex<g ref="char:EOLhyphen"/>cellency</hi> is not to be ſeen till God opens the Chriſtian's Eyes, and gives him a new Light. There is a <hi>Vail</hi> upon the Promiſes, or ra<g ref="char:EOLhyphen"/>ther a <hi>Film</hi> upon the Eye of the Soul, and until that is removed, the Promiſes are dark, and they have no Form or Comlineſs in them: And though they be great and precious in themſelves, yet they cannot be ſo to us, unleſs God and the Promiſe come in together. <hi>The Spirit muſt move upon the face of the Waters before they become refreſhing Streams to make glad the Heart.</hi> The Chriſtian's
+<pb n="146" facs="tcp:96692:77"/>own Arm will not reach Com<g ref="char:EOLhyphen"/>fort from them: For this, God muſt be ſought, and the Promiſe muſt be our Meditation.</p>
+            </div>
+            <div n="61" type="observation">
+               <head>
+                  <hi>LXI.</hi> The Holy Ghost proceeds in his Operations gradually.</head>
+               <p>The Spirit of God operates gradually: He teaches firſt one Truth, and then another: He brings us firſt to make <hi>Conſcience</hi> of a Duty, and then of the <hi>man<g ref="char:EOLhyphen"/>ner of performing it.</hi> The Holy Spirit lays a <hi>Foundation</hi> in the Heart for the whole of Religion, and then draws us on <hi>gradually</hi> to more and more.</p>
+            </div>
+         </div>
+         <div type="rules">
+            <pb n="147" facs="tcp:96692:77"/>
+            <head>Rules for Practice.</head>
+            <p n="1">I. LET Love and Charity be <hi>Univerſal.</hi> For no pretence whatever, no not of Reli<g ref="char:EOLhyphen"/>gion and Zeal for God, can ju<g ref="char:EOLhyphen"/>ſtifie your not loving any <hi>Perſon</hi> in the World. Treat all Men with Kindneſs, and wiſh them well: Do them good according to their Neceſſity, and your Pow<g ref="char:EOLhyphen"/>er and Opportunity. If Perſons be above you, expreſs your Love to them, by paying them the <hi>Ho<g ref="char:EOLhyphen"/>nour</hi> and <hi>Obſervance</hi> their Place and <hi>Authority</hi> call for. If they are in Worldly Reſpects beneath you, manifeſt your Love by Kindneſs, Affability, and vouchſafing an eaſy <hi>Addreſs</hi> to you. If they excel in <hi>Natural</hi> or Acquired <hi>Endowments</hi>
+               <pb n="148" facs="tcp:96692:78"/>of Mind, expreſs your Love to them by a due eſteem of them. If they be rather wanting than ex<g ref="char:EOLhyphen"/>celling, ſhew your Love by pi<g ref="char:EOLhyphen"/>tying them, and deſpiſe not their weakneſs. If any be in Miſery, compaſſionate them, pray for them, comfort them with your Preſence if you can reach them, relieve them according to your power. If any be defamed, ſhew your Love, by ſtopping and re<g ref="char:EOLhyphen"/>buking the Defamation.</p>
+            <p n="2">II. Be very careful not to harbour any evil Affection in your Heart againſt any one what-ever. For though you are far from intend<g ref="char:EOLhyphen"/>ing any actual Miſchief, yet you tempt God to let looſe your Cor<g ref="char:EOLhyphen"/>ruption, and his Providence to
+<pb n="149" facs="tcp:96692:78"/>permit you an Opportunity, and ſo before you are aware, you may be drawn to an Act you never thought of before. Moreover, by an evil Affection harboured in your Mind, you will prevent the bleſſed Illapſes of the Spirit of God, and open a wide Door for the <hi>Devil</hi> to enter into you. And indeed an unkind diſpoſition to<g ref="char:EOLhyphen"/>wards any Man, is ſo much akin to Satan, that if you <hi>admit</hi> the one, you <hi>cannot</hi> exclude the other.</p>
+            <p n="3">III. Deſpiſe none; for Love never rides in <hi>Triumph</hi> over <hi>Inferiours.</hi>
+            </p>
+            <p n="4">IV. Look upon all unavoidable <hi>Temptations,</hi> as <hi>Opportunities</hi> for an
+<pb n="150" facs="tcp:96692:79"/>high exerciſe of Grace. Are you injured? be ſorry for him that hath done it, and bleſs God for the opportunity of ſhewing your ſelf hereby a <hi>Chriſtian,</hi> by patient bearing, forgiving, doing Good againſt Evil, treating him with Meekneſs, and breaking his Heart with Love. <hi>Every Provo<g ref="char:EOLhyphen"/>cation is a Price in your Hand,</hi> get an Heart to improve it.</p>
+            <p n="5">V. Put a due value upon your Name and <hi>Reputation:</hi> But be not over ſolicitous about it, for that diſcovers ſome <hi>unmortified</hi> Luſt at the bottom.</p>
+            <p n="6">VI. Purſue Piety under the notion of an <hi>Imitation</hi> of God, and then
+<pb n="151" facs="tcp:96692:79"/>ſo great a Pleaſure will reſult from it, that neither <hi>Men</hi> nor <hi>Devils</hi> ſhall be able to make you queſti<g ref="char:EOLhyphen"/>on God's Being and Attributes: This will raiſe an Eſteem of it, and render it lovely, and make the ſeveral Duties of <hi>Religion</hi> more facile and eaſie; and it will gradually wear out the Re<g ref="char:EOLhyphen"/>mains of <hi>Unbelief,</hi> and unkind Jealouſies of God.</p>
+            <p n="7">VII. Let <hi>Humility</hi> be the conſtant covering of your Soul, and let <hi>Repentance</hi> follow all your <hi>Perfor<g ref="char:EOLhyphen"/>mances:</hi> This will demonſtrate your Religion is inward. For if Religion be ſuffered to enter deep into the Heart, it will always find Work for Repentance while we are in the State of <hi>Imper<g ref="char:EOLhyphen"/>fection.</hi>
+            </p>
+            <p n="8">
+               <pb n="152" facs="tcp:96692:80"/>
+VIII. Love nothing above <hi>God</hi> and <hi>Chriſt;</hi> for to love any thing more than God or Chriſt, is the way ei<g ref="char:EOLhyphen"/>ther never to <hi>enjoy</hi> it, or to be ſoon <hi>deprived</hi> of it, or elſe to find your ſelf <hi>deceived in it.</hi>
+            </p>
+            <p n="9">IX. Do nothing upon which you dare not ask God's Bleſſing.</p>
+            <p n="10">X. Eſteem Time as your moſt precious Talent, which when you beſtow it upon any, you give them more than you can under<g ref="char:EOLhyphen"/>ſtand. A joynt Aſſiſtance of Men and <hi>Angels</hi> cannot reſtore it to you again.</p>
+            <p n="11">
+               <pb n="153" facs="tcp:96692:80"/>
+XI. Never ſpeak of Religion for Diſcourſe and Entertainment ſake, but for the <hi>Purpoſes</hi> of Piety.</p>
+            <p n="12">XII. Upon the <hi>Lord's-Day</hi> conſider in private the Love of God, in the ſeveral Inſtances of it, to thy Self and the World, in Creation and Redemption; the Promiſes of Eternal Life, the Care of his Providence, his Mercies to Thee, thy <hi>Friends</hi> and <hi>Family:</hi> And ſtay upon theſe Conſiderations till thy Heart be lifted up in his Praiſe, and thou canſt ſay with <hi>David, Now will I go to God, my exceeding Joy.</hi> Conſider alſo your Miſcarriages in the <hi>Week paſt,</hi> and
+<pb n="154" facs="tcp:96692:81"/>induſtriouly endeavour to pre<g ref="char:EOLhyphen"/>vent them in the following Week.</p>
+            <p n="13">XIII. Be diligent in your <hi>particular Calling,</hi> in Obedience to God's Command: For the ſame God who ſaid, <hi>Be fervent in Prayer,</hi> hath alſo ſaid, <hi>Be not ſlothful in Buſineſs.</hi> That therefore which putteth a good Man upon praying in his <hi>Cloſet,</hi> calleth him out again, even a Submiſſion to God the great <hi>Maſter</hi> of the World, by whom we are placed in our ſeveral Sta<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="14">XIV. Carefully avoid all thoſe Sins which your <hi>Calling,</hi> and Diligence in it, expoſeth you unto.</p>
+            <p n="15">
+               <pb n="155" facs="tcp:96692:81"/>
+XV. Never let the Infirmity of thy <hi>Brother</hi> be thy Recreation. Let not that which <hi>grieveth</hi> God, make thee <hi>merry.</hi> Let not that be thy Sport, which is Heaven's Sor<g ref="char:EOLhyphen"/>row, and ſo is every thing that is evil.</p>
+            <p n="16">XVI. Let the uſe of <hi>Refreſhments,</hi> make you compaſſionate to the <hi>Poor</hi> who want them. This will be an Evidence that they are ſanctified unto you.</p>
+            <p n="17">XVII. In the Practice of <hi>Civility,</hi> a<g ref="char:EOLhyphen"/>void the Sins of <hi>Company,</hi> mention
+<pb n="156" facs="tcp:96692:82"/>not God <hi>ſlightly, inconſiderately,</hi> or <hi>merrily.</hi>
+            </p>
+            <p n="18">XVIII. Cenſure not any Man's Acti<g ref="char:EOLhyphen"/>ons which contradict not a <hi>plain Rule,</hi> and in which there is uſe of Prudence, becauſe much of Prudence depends upon <hi>Circum<g ref="char:EOLhyphen"/>ſtances</hi> of which you are igno<g ref="char:EOLhyphen"/>rant. God hath made you a <hi>Feoffee in Truſt</hi> of your Neigh<g ref="char:EOLhyphen"/>bours Name; and it is a <hi>Greatneſs of Mind</hi> not to ſpeak evil of o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>Before thy <hi>Brother</hi>'s Face flatter not; behind his back be as tender of his <hi>Reputation</hi> as of his <hi>Life.</hi>
+            </p>
+            <p n="19">XIX. In Civil <hi>Converſe,</hi> though your Diſcourſe be not always of Reli<g ref="char:EOLhyphen"/>gion,
+<pb n="157" facs="tcp:96692:82"/>yet make it your Deſign thereby to <hi>recommend</hi> Religion.</p>
+            <p n="20">XX. Let not Fretting and Diſcon<g ref="char:EOLhyphen"/>tent prey upon your Time: It makes you neglect ſome preſent Duty: It makes you like a <hi>Ship</hi> toſſed upon, the Waters, which is moved, but brought to no place.</p>
+            <p n="21">XXI. In endeavouring the <hi>Conver<g ref="char:EOLhyphen"/>ſion</hi> of another, perſwade him only to what is neceſſary to his Salvation; make him under<g ref="char:EOLhyphen"/>ſtand that you deſign nothing for your ſelf in it, but his own Hap<g ref="char:EOLhyphen"/>pineſs. Preſs him to nothing that you will not practiſe your ſelf.</p>
+            <p n="22">
+               <pb n="158" facs="tcp:96692:83"/>
+XXII. Be exact in your Actions, be<g ref="char:EOLhyphen"/>cauſe they muſt ſtand upon <hi>Record</hi> to Eternity.</p>
+            <p n="23">XXIII. That you may think of God aright, you muſt abſtract from your preſent Temper, and your own Senſe. For <hi>Experience</hi> tells us that if a Man be convinc'd of Sin, and under Terrors, all the Art of Man cannot ſatisfy him, that God intends to pardon ſuch a Sinner as he is; becauſe he judges of God by what he feels. So he that perceives not the Bit<g ref="char:EOLhyphen"/>terneſs of Sin; all <hi>Arguments</hi> can ſcarcely perſwade him that Sin is ſo great an Evil as indeed it is,
+<pb n="159" facs="tcp:96692:83"/>or that God will ſeverely puniſh it, becauſe he judged of God ac<g ref="char:EOLhyphen"/>cording to his <hi>preſent Temper,</hi> and his own Senſe of things.</p>
+            <p n="24">XXIV. Give God the Honour of his <hi>Attributes</hi> together: You deſire his <hi>Mercy,</hi> let him have alſo the Ho<g ref="char:EOLhyphen"/>nour of his <hi>Wiſdom</hi> in his chuſing the Channel in which his <hi>Goodneſs</hi> ſhall run.</p>
+            <p n="25">XXV. Never be a Spendthrift of that, of which only you can be honeſt<g ref="char:EOLhyphen"/>ly covetous; that is, of your Time.</p>
+            <p n="26">XXVI. Meditate much upon the Pro<g ref="char:EOLhyphen"/>miſes; for though Meditation
+<pb n="160" facs="tcp:96692:84"/>can add nothing to the Promiſes, yet it draws forth the <hi>Sweetneſs,</hi> and diſcovers the <hi>Beauty</hi> which is in them.</p>
+            <p n="27">XXVII. Apply the Promiſes frequently, tho you find not ſuch viſible Ef<g ref="char:EOLhyphen"/>fects, either of Grace or Comfort, iſſuing from them as you expect, or deſire. The <hi>Manner</hi> of fulfil<g ref="char:EOLhyphen"/>ling them may be various, but the <hi>Performance</hi> is moſt certain. The Bleſſing of the Promiſe ſome<g ref="char:EOLhyphen"/>times deſcends like Rain in viſible Showers, producing the ſenſible Effects of Joy and Peace in the Soul; and ſometimes like Dew, which falleth in a ſilent way, with<g ref="char:EOLhyphen"/>out making any ſenſible Alterati<g ref="char:EOLhyphen"/>on in the Heart: The Vertue of it is <hi>real,</hi> but withal <hi>hidden</hi> and ſecret.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96692:84"/>
+         </div>
+      </body>
+   </text>
+</TEI>
